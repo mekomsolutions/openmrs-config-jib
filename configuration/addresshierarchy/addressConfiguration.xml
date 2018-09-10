@@ -1,0 +1,35 @@
+<addressConfiguration>
+  <wipe>true</wipe>
+  <addressComponents>
+    <addressComponent>
+      <field>COUNTRY</field>
+      <nameMapping>Country</nameMapping>
+      <sizeMapping>40</sizeMapping>
+      <elementDefault>addresshierarchy.Bahrain</elementDefault>
+      <requiredInHierarchy>false</requiredInHierarchy>
+    </addressComponent>
+    <addressComponent>
+      <field>REGION</field>
+      <nameMapping>Governorate</nameMapping>
+      <sizeMapping>40</sizeMapping>
+      <requiredInHierarchy>false</requiredInHierarchy>
+    </addressComponent>
+    <addressComponent>
+      <field>COUNTY_DISTRICT</field>
+      <nameMapping>Place</nameMapping>
+      <sizeMapping>40</sizeMapping>
+      <requiredInHierarchy>false</requiredInHierarchy>
+    </addressComponent>
+    <addressComponent>
+      <field>POSTAL_CODE</field>
+      <nameMapping>Block</nameMapping>
+      <sizeMapping>40</sizeMapping>
+      <requiredInHierarchy>false</requiredInHierarchy>
+    </addressComponent>
+  </addressComponents>
+  <addressHierarchyFile>
+    <filename>addresshierarchy.csv</filename>
+    <entryDelimiter>,</entryDelimiter>
+    <identifierDelimiter>%</identifierDelimiter>
+  </addressHierarchyFile>
+</addressConfiguration>
