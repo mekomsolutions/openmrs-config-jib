@@ -24,7 +24,7 @@
         <artifactId>maven-assembly-plugin</artifactId>
         <executions>
           <execution>
-            <id>create-distribution</id>
+            <id>create-package</id>
             <phase>package</phase>
             <goals>
               <goal>single</goal>

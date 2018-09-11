@@ -5,7 +5,7 @@
       <field>COUNTRY</field>
       <nameMapping>Country</nameMapping>
       <sizeMapping>40</sizeMapping>
-      <elementDefault>addresshierarchy.Bahrain</elementDefault>
+      <elementDefault>Bahrain</elementDefault>
       <requiredInHierarchy>false</requiredInHierarchy>
     </addressComponent>
     <addressComponent>
