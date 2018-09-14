@@ -1,9 +1,9 @@
 <config>
   <globalproperties>
-    <globalproperty>
+    <globalProperty>
       <property>locale.allowed.list</property>
       <value>en</value>
-    </globalproperty>
+    </globalProperty>
     <globalProperty>
       <property>default_locale</property>
       <value>en</value>
