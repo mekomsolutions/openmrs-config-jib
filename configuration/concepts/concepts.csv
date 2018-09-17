@@ -14,4 +14,5 @@ Uuid,Void/Retire,Same as mappings,Fully specified name:en,Fully specified name:k
 ,,,JIB_Respiratory Rate,JIB_Respiratory Rate,RR,,,Question,Numeric,,,,,,,,,,,
 ,,,JIB_Respiratory Rate Abnormal,JIB_Respiratory Rate Abnormal,RR Abnormal,,,Abnormal,Boolean,,,,,,,,,,,
 ,,,JIB_Respiratory Rate Data,JIB_Respiratory Rate Data,RR,,,Concept Details,N/A,,,JIB_Respiratory Rate; JIB_Respiratory Rate Abnormal,,,,,,,,
-,,,JIB_Vital Signs Basic Set,JIB_Vital Signs Basic Set,Vital Signs,,,ConvSet,N/A,,,JIB_Pulse Data; JIB_Blood Pressure Set; JIB_Temperature Data; JIB_Respiratory Rate Data; ,,,,,,,,
+,,,JIB_Blood Pressure Set,JIB_Blood Pressure Set,Blood Pressure,,,ConvSet,N/A,,,JIB_Systolic Blood Pressure Data; JIB_Diastolic Blood Pressure Data; ,,,,,,,,
+,,,JIB_Vital Signs Basic Set,JIB_Vital Signs Basic Set,Vital Signs,,,ConvSet,N/A,,,JIB_Pulse Data; JIB_Blood Pressure Set; JIB_Temperature Data; JIB_Respiratory Rate Data,,,,,,,,
