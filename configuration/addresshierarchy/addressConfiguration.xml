@@ -9,7 +9,7 @@
       <requiredInHierarchy>false</requiredInHierarchy>
     </addressComponent>
     <addressComponent>
-      <field>REGION</field>
+      <field>STATE_PROVINCE</field>
       <nameMapping>Governorate</nameMapping>
       <sizeMapping>40</sizeMapping>
       <requiredInHierarchy>false</requiredInHierarchy>
