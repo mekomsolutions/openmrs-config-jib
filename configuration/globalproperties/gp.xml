@@ -1,5 +1,5 @@
 <config>
-  <globalproperties>
+  <globalProperties>
     <globalProperty>
       <property>locale.allowed.list</property>
       <value>en</value>
@@ -12,5 +12,9 @@
       <property>bahmni.primaryIdentifierType</property>
       <value>8d793bee-c2cc-11de-8d13-0010c6dffd0f</value>
     </globalProperty>
-  </globalproperties>
+    <globalProperty>
+      <property>concept.reasonForDeath</property>
+      <value></value>
+    </globalProperty>
+  </globalProperties>
 </config>
