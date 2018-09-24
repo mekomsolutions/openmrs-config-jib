@@ -16,7 +16,7 @@
     </addressComponent>
     <addressComponent>
       <field>COUNTY_DISTRICT</field>
-      <nameMapping>Place</nameMapping>
+      <nameMapping>Area</nameMapping>
       <sizeMapping>40</sizeMapping>
       <requiredInHierarchy>false</requiredInHierarchy>
     </addressComponent>
