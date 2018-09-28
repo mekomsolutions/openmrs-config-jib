@@ -26,6 +26,24 @@
       <sizeMapping>40</sizeMapping>
       <requiredInHierarchy>false</requiredInHierarchy>
     </addressComponent>
+    <addressComponent>
+      <field>ADDRESS_4</field>
+      <nameMapping>Road</nameMapping>
+      <sizeMapping>40</sizeMapping>
+      <requiredInHierarchy>false</requiredInHierarchy>
+    </addressComponent>
+    <addressComponent>
+      <field>ADDRESS_3</field>
+      <nameMapping>Building</nameMapping>
+      <sizeMapping>40</sizeMapping>
+      <requiredInHierarchy>false</requiredInHierarchy>
+    </addressComponent>
+    <addressComponent>
+      <field>ADDRESS_2</field>
+      <nameMapping>Apartment/Shop/Villa</nameMapping>
+      <sizeMapping>40</sizeMapping>
+      <requiredInHierarchy>false</requiredInHierarchy>
+    </addressComponent>
   </addressComponents>
   <addressHierarchyFile>
     <filename>addresshierarchy.csv</filename>
