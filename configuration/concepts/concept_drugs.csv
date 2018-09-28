@@ -1,0 +1,1281 @@
+Uuid,Void/Retire,Short name:en,Fully specified name:en,Description:en,Data class,Data type
+,,BATH ADDITIVE,JIB_Bath_Additive,,Misc,Text
+,,CAPLETS,JIB_Caplets,,Misc,Text
+,,CAPSULE,JIB_Capsule,,Misc,Text
+,,CHEWABLE TABLET,JIB_Chewable_Tablet,,Misc,Text
+,,COATED TABLET,JIB_Coated_Tablet,,Misc,Text
+,,CONCENTRATE AND SOLVENT FOR SOLUTION FOR INFUSION,JIB_Concentrate_And_Solvent_For_Solution_For_Infusion,,Misc,Text
+,,CONCENTRATE FOR SOLUTION FOR INFUSION,JIB_Concentrate_For_Solution_For_Infusion,,Misc,Text
+,,CONCENTRATE FOR SUSPENSION FOR INFUSION,JIB_Concentrate_For_Suspension_For_Infusion,,Misc,Text
+,,CONTROLLED-RELEASE TABLET,JIB_Controlled_Release_Tablet,,Misc,Text
+,,CREAM,JIB_Cream,,Misc,Text
+,,CRYSTAL,JIB_Crystal,,Misc,Text
+,,CUTANEOUS EMULSION ,JIB_Cutaneous_Emulsion_,,Misc,Text
+,,CUTANEOUS PATCH,JIB_Cutaneous_Patch,,Misc,Text
+,,CUTANEOUS POWDER,JIB_Cutaneous_Powder,,Misc,Text
+,,CUTANEOUS SOLUTION,JIB_Cutaneous_Solution,,Misc,Text
+,,CUTANEOUS SPRAY,JIB_Cutaneous_Spray,,Misc,Text
+,,DELAYED-RELEASE CAPSULE,JIB_Delayed_Release_Capsule,,Misc,Text
+,,DELAYED-RELEASE TABLET,JIB_Delayed_Release_Tablet,,Misc,Text
+,,DENTAL GEL,JIB_Dental_Gel,,Misc,Text
+,,DENTAL PASTE,JIB_Dental_Paste,,Misc,Text
+,,DISPERSIBLE TABLET,JIB_Dispersible_Tablet,,Misc,Text
+,,EAR DROPS,JIB_Ear_Drops,,Misc,Text
+,,EAR/EYE DROPS,JIB_Ear_Eye_Drops,,Misc,Text
+,,EAR/EYE/NOSE DROPS,JIB_Ear_Eye_Nose_Drops,,Misc,Text
+,,EFFERVESCENT GRANULES,JIB_Effervescent_Granules,,Misc,Text
+,,EFFERVESCENT TABLET,JIB_Effervescent_Tablet,,Misc,Text
+,,ELIXIR,JIB_Elixir,,Misc,Text
+,,EMULGEL,JIB_Emulgel,,Misc,Text
+,,EMULSION FOR INFUSION,JIB_Emulsion_For_Infusion,,Misc,Text
+,,EMULSION FOR INJECTION/INFUSION,JIB_Emulsion_For_Injection_Infusion,,Misc,Text
+,,ENEMA,JIB_Enema,,Misc,Text
+,,ENTERIC-COATED TABLET,JIB_Enteric_Coated_Tablet,,Misc,Text
+,,EXTENDED-RELEASE TABLET,JIB_Extended_Release_Tablet,,Misc,Text
+,,EYE DROPS,JIB_Eye_Drops,,Misc,Text
+,,EYE GEL,JIB_Eye_Gel,,Misc,Text
+,,EYE LOTION,JIB_Eye_Lotion,,Misc,Text
+,,EYE OINTMENT,JIB_Eye_Ointment,,Misc,Text
+,,FILM-COATED TABLET,JIB_Film_Coated_Tablet,,Misc,Text
+,,GARGLE/MOUTH WASH,JIB_Gargle_Mouth_Wash,,Misc,Text
+,,GASTRO-RESISTANT CAPSULE,JIB_Gastro_Resistant_Capsule,,Misc,Text
+,,GASTRO-RESISTANT GRANULES,JIB_Gastro_Resistant_Granules,,Misc,Text
+,,GASTRO-RESISTANT TABLET,JIB_Gastro_Resistant_Tablet,,Misc,Text
+,,GEL,JIB_Gel,,Misc,Text
+,,GRANULES,JIB_Granules,,Misc,Text
+,,GRANULES FOR ORAL SOLUTION,JIB_Granules_For_Oral_Solution,,Misc,Text
+,,GRANULES FOR ORAL SUSPENSION,JIB_Granules_For_Oral_Suspension,,Misc,Text
+,,GRANULES FOR VAGINAL SOLUTION,JIB_Granules_For_Vaginal_Solution,,Misc,Text
+,,IMPLANT,JIB_Implant,,Misc,Text
+,,INHALATION POWDER,JIB_Inhalation_Powder,,Misc,Text
+,,"INHALATION POWDER, HARD CAPSULE",JIB_Inhalation_Powder_Hard_Capsule,,Misc,Text
+,,"INHALATION POWDER, PRE-DISPENSED",JIB_Inhalation_Powder_Pre_Dispensed,,Misc,Text
+,,INHALATION SOLUTION,JIB_Inhalation_Solution,,Misc,Text
+,,INTRAUTERINE DELIVERY SYSTEM,JIB_Intrauterine_Delivery_System,,Misc,Text
+,,IRRIGATION SOLUTION,JIB_Irrigation_Solution,,Misc,Text
+,,LOTION,JIB_Lotion,,Misc,Text
+,,LOZENGES,JIB_Lozenges,,Misc,Text
+,,MEDICATED CHEWING-GUM,JIB_Medicated_Chewing_Gum,,Misc,Text
+,,MODIFIED-RELEASE TABLET,JIB_Modified_Release_Tablet,,Misc,Text
+,,NASAL DROPS,JIB_Nasal_Drops,,Misc,Text
+,,NASAL GEL,JIB_Nasal_Gel,,Misc,Text
+,,NASAL OINTMENT,JIB_Nasal_Ointment,,Misc,Text
+,,NASAL SPRAY,JIB_Nasal_Spray,,Misc,Text
+,,NEBULISER SOLUTION,JIB_Nebuliser_Solution,,Misc,Text
+,,NEBULISER SUSPENSION,JIB_Nebuliser_Suspension,,Misc,Text
+,,OIL,JIB_Oil,,Misc,Text
+,,OINTMENT,JIB_Ointment,,Misc,Text
+,,ORAL DROPS,JIB_Oral_Drops,,Misc,Text
+,,ORAL GEL,JIB_Oral_Gel,,Misc,Text
+,,ORAL LIQUID,JIB_Oral_Liquid,,Misc,Text
+,,ORAL SOLUTION,JIB_Oral_Solution,,Misc,Text
+,,ORAL SUSPENSION,JIB_Oral_Suspension,,Misc,Text
+,,ORODISPERSIBLE TABLET,JIB_Orodispersible_Tablet,,Misc,Text
+,,OROMUCOSAL SOLUTION,JIB_Oromucosal_Solution,,Misc,Text
+,,OROMUCOSAL SPRAY,JIB_Oromucosal_Spray,,Misc,Text
+,,OVULES,JIB_Ovules,,Misc,Text
+,,PESSARY,JIB_Pessary,,Misc,Text
+,,POWDER AND SOLVENT FOR PROLONGED-RELEASE SUSPENSION FOR INJECTION,JIB_Powder_And_Solvent_For_Prolonged_Release_Suspension_For_Injection,,Misc,Text
+,,POWDER AND SOLVENT FOR SOLUTION FOR INFUSION,JIB_Powder_And_Solvent_For_Solution_For_Infusion,,Misc,Text
+,,POWDER AND SOLVENT FOR SOLUTION FOR INJECTION,JIB_Powder_And_Solvent_For_Solution_For_Injection,,Misc,Text
+,,POWDER AND SOLVENT FOR SOLUTION FOR INJECTION/INFUSION,JIB_Powder_And_Solvent_For_Solution_For_Injection_Infusion,,Misc,Text
+,,POWDER AND SOLVENT FOR SUSPENSION FOR INJECTION,JIB_Powder_And_Solvent_For_Suspension_For_Injection,,Misc,Text
+,,POWDER AND SUSPENSION FOR SUSPENSION FOR INJECTION,JIB_Powder_And_Suspension_For_Suspension_For_Injection,,Misc,Text
+,,POWDER FOR CONCENTRATE FOR SOLUTION FOR INFUSION,JIB_Powder_For_Concentrate_For_Solution_For_Infusion,,Misc,Text
+,,POWDER FOR INJECTION,JIB_Powder_For_Injection,,Misc,Text
+,,POWDER FOR ORAL SOLUTION ,JIB_Powder_For_Oral_Solution_,,Misc,Text
+,,POWDER FOR ORAL SUSPENSION,JIB_Powder_For_Oral_Suspension,,Misc,Text
+,,POWDER FOR ORAL/RECTAL SUSPENSION,JIB_Powder_For_Oral_Rectal_Suspension,,Misc,Text
+,,POWDER FOR SOLUTION FOR INFUSION,JIB_Powder_For_Solution_For_Infusion,,Misc,Text
+,,POWDER FOR SOLUTION FOR INJECTION ,JIB_Powder_For_Solution_For_Injection_,,Misc,Text
+,,POWDER FOR SOLUTION FOR INJECTION OR INFUSION,JIB_Powder_For_Solution_For_Injection_Or_Infusion,,Misc,Text
+,,POWDER FOR SUSPENSION FOR INJECTION,JIB_Powder_For_Suspension_For_Injection,,Misc,Text
+,,PRESSURISED INHALATION,JIB_Pressurised_Inhalation,,Misc,Text
+,,"PRESSURISED INHALATION, SOLUTION",JIB_Pressurised_Inhalation_Solution,,Misc,Text
+,,"PRESSURISED INHALATION, SUSPENSION",JIB_Pressurised_Inhalation_Suspension,,Misc,Text
+,,PROLONGED-RELEASE CAPSULE,JIB_Prolonged_Release_Capsule,,Misc,Text
+,,PROLONGED-RELEASE GRANULES,JIB_Prolonged_Release_Granules,,Misc,Text
+,,PROLONGED-RELEASE TABLET,JIB_Prolonged_Release_Tablet,,Misc,Text
+,,RECTAL SUSPENSION,JIB_Rectal_Suspension,,Misc,Text
+,,SHAMPOO,JIB_Shampoo,,Misc,Text
+,,SOFTGEL,JIB_Softgel,,Misc,Text
+,,SOLUTION FOR HAEMODIALYSIS/HAEMOFILTRATION,JIB_Solution_For_Haemodialysis_Haemofiltration,,Misc,Text
+,,SOLUTION FOR INFUSION ,JIB_Solution_For_Infusion_,,Misc,Text
+,,SOLUTION FOR INJECTION ,JIB_Solution_For_Injection_,,Misc,Text
+,,SOLUTION FOR INJECTION IN CARTRIDGE,JIB_Solution_For_Injection_In_Cartridge,,Misc,Text
+,,SOLUTION FOR INJECTION IN PRE-FILLED PEN,JIB_Solution_For_Injection_In_Pre_Filled_Pen,,Misc,Text
+,,SOLUTION FOR INJECTION IN PRE-FILLED SYRINGE,JIB_Solution_For_Injection_In_Pre_Filled_Syringe,,Misc,Text
+,,SOLUTION FOR INJECTION/INFUSION,JIB_Solution_For_Injection_Infusion,,Misc,Text
+,,SOLUTION FOR PERITONEAL DIALYSIS,JIB_Solution_For_Peritoneal_Dialysis,,Misc,Text
+,,SOLVENT FOR PARENTERAL USE,JIB_Solvent_For_Parenteral_Use,,Misc,Text
+,,SPRINKLE CAPSULE,JIB_Sprinkle_Capsule,,Misc,Text
+,,SUBLINGUAL TABLET,JIB_Sublingual_Tablet,,Misc,Text
+,,SUGAR-COATED TABLET,JIB_Sugar_Coated_Tablet,,Misc,Text
+,,SUPPOSITORY,JIB_Suppository,,Misc,Text
+,,SUSPENSION FOR INJECTION,JIB_Suspension_For_Injection,,Misc,Text
+,,SUSPENSION FOR INJECTION IN CARTRIDGE,JIB_Suspension_For_Injection_In_Cartridge,,Misc,Text
+,,SUSPENSION FOR INJECTION IN PRE-FILLED PEN,JIB_Suspension_For_Injection_In_Pre_Filled_Pen,,Misc,Text
+,,SUSPENSION FOR INJECTION IN PRE-FILLED SYRINGE,JIB_Suspension_For_Injection_In_Pre_Filled_Syringe,,Misc,Text
+,,SUSTAINED-RELEASE CAPSULE,JIB_Sustained_Release_Capsule,,Misc,Text
+,,SUSTAINED-RELEASE TABLET,JIB_Sustained_Release_Tablet,,Misc,Text
+,,SYRUP,JIB_Syrup,,Misc,Text
+,,TABLET,JIB_Tablet,,Misc,Text
+,,TRANSDERMAL PATCH,JIB_Transdermal_Patch,,Misc,Text
+,,VAGINAL CAPSULE,JIB_Vaginal_Capsule,,Misc,Text
+,,VAGINAL CREAM,JIB_Vaginal_Cream,,Misc,Text
+,,VAGINAL DELIVERY SYSTEM,JIB_Vaginal_Delivery_System,,Misc,Text
+,,VAGINAL GEL,JIB_Vaginal_Gel,,Misc,Text
+,,VAGINAL SOLUTION,JIB_Vaginal_Solution,,Misc,Text
+,,VAGINAL TABLET,JIB_Vaginal_Tablet,,Misc,Text
+,,,Vit A,,Drug,Text
+,,,Vitamin A+D (Arnet) Ingredients,VIT A 10000IU + VIT D 400MG,Drug,Text
+,,,Therra-Vite Ingredients,ASCORBIC ACID 200MG + COLECALCIFEROL 400IU + COPPER SULFATE 2MG + CYANOCOBALAMIN 5MCG,Drug,Text
+,,,Iodine Tincture Ingredients,IODINE + POTASSIUM IODIDE,Drug,Text
+,,,Methyl Salicylate ,,Drug,Text
+,,,Paraffin Liquid,,Drug,Text
+,,,Eucalyptus Oil,,Drug,Text
+,,,Calamine Lotion Ingredients,CALAMINE + ZINC OXIDE,Drug,Text
+,,,Linagliptin,,Drug,Text
+,,,Cabazitaxel,,Drug,Text
+,,,Alteplase,,Drug,Text
+,,,Minoxidil,,Drug,Text
+,,,Tramadol Hcl,,Drug,Text
+,,,Isotretinoin,,Drug,Text
+,,,Tienam Ingredients,IMIPENEM MONOHYDRATE + CILASTATIN SODIUM,Drug,Text
+,,,Flumazenil,,Drug,Text
+,,,Cefotaxime Sodium,,Drug,Text
+,,,Midazolam,,Drug,Text
+,,,Zidovudine,,Drug,Text
+,,,Clotrimazole,,Drug,Text
+,,,Simvastatin,,Drug,Text
+,,,Amitriptyline Hcl,,Drug,Text
+,,,Medroxyprogesterone Acetate,,Drug,Text
+,,,Oxytocin,,Drug,Text
+,,,Methylergometrine Maleate,,Drug,Text
+,,,Dydrogesterone,,Drug,Text
+,,,Alprazolam,,Drug,Text
+,,,Vibrocil Ingredients,DIMETINDENE MALEATE + PHENYLEPHRINE HCL,Drug,Text
+,,,Vibrocil Ingredients,DIMETINDENE MALEATE + NEOMYCIN SULFATE + PHENYLEPHRINE HCL,Drug,Text
+,,,Diclofenac Sodium,,Drug,Text
+,,,Simethicone,,Drug,Text
+,,,Ibuprofen,,Drug,Text
+,,,Silver Sulfadiazine,,Drug,Text
+,,,Indometacin,,Drug,Text
+,,,Paracetamol,,Drug,Text
+,,,Loratadine,,Drug,Text
+,,,Chlorpheniramine Maleate,,Drug,Text
+,,,Flukit Ingredients,PARACETAMOL + CHLORPHENIRAMINE MALEATE + PSEUDOEPHEDRINE,Drug,Text
+,,,Amoxicillin,,Drug,Text
+,,,Cyproheptadine,,Drug,Text
+,,,Diclofenac Potassium,,Drug,Text
+,,,Ceftriaxone Sodium,,Drug,Text
+,,,Eucarbon Ingredients,ACTIVATED CHARCOAL 180MG + SENNAE FOLIUM 105MG + RHEI RADIX (EXTRACT) 25MG + SULFUR 50MG,Drug,Text
+,,,Ceftizoxime Sodium,,Drug,Text
+,,,Ciprofloxacin,,Drug,Text
+,,,Cilazapril,,Drug,Text
+,,,Norfloxacin,,Drug,Text
+,,,Lincomycin Hcl,,Drug,Text
+,,,Clindamycin,,Drug,Text
+,,,Clindamycin Phosphate,,Drug,Text
+,,,Tianeptine Sodium,,Drug,Text
+,,,Migranerton Ingredients,PARACETAMOL + METOCLOPRAMIDE HCL,Drug,Text
+,,,Muscadol Ingredients,ORPHENADRINE CITRATE + PARACETAMOL,Drug,Text
+,,,Cefalexin Monohydrate,,Drug,Text
+,,,Trimol Ingredients,SULFAMETHOXAZOLE + TRIMETHOPRIM,Drug,Text
+,,,Suxamethonium,,Drug,Text
+,,,Atracurium Besylate,,Drug,Text
+,,,Orcinol Ingredients,AMMONIUM CHLORIDE + CLOBUTINOL HCL + ORCIPRENALINE SULFATE,Drug,Text
+,,,Bromhexine Hcl,,Drug,Text
+,,,Codaphed Ingredients,CHLORPHENIRAMINE MALEATE + CODEINE PHOSPHATE + EPHEDRINE HCL,Drug,Text
+,,,Propofol,,Drug,Text
+,,,Oxomemazine,,Drug,Text
+,,,Broncholar Ingredients,CHLORPHENIRAMINE MALEATE + DEXTROAMPHETAMINE + EPHEDRINE HCL + GUAIPHENESIN,Drug,Text
+,,,Atenolol,,Drug,Text
+,,,Carbocisteine,,Drug,Text
+,,,Rhinathiol Promethazine Ingredients,PROMETHAZINE HCL + CARBOCISTEINE,Drug,Text
+,,,Guaifenesin,,Drug,Text
+,,,Ambroxol Hcl,,Drug,Text
+,,,Ranitidine Hcl,,Drug,Text
+,,,Cefixime,,Drug,Text
+,,,Soolan Ingredients,CHLORPHENIRAMINE MALEATE + GUAIFENESIN + PHENYLEPHRINE HCL,Drug,Text
+,,,Amydramin Expectorant Ingredients,DIPHENHYDRAMINE HCL + AMMONIUM CHLORIDE + SODIUM CITRATE + MENTHOL,Drug,Text
+,,,Ipratropium Bromide,,Drug,Text
+,,,Marvelon Ingredients,DESOGESTREL + ETHINYLESTRADIOL,Drug,Text
+,,,Dinoprostone,,Drug,Text
+,,,Acyclovir,,Drug,Text
+,,,Actifed Ingredients,TRIPROLIDINE HCL + PSEUDOEPHEDRINE HCL,Drug,Text
+,,,Actifed Dm Ingredients,TRIPROLIDINE HCL + PSEUDOEPHEDRINE HCL + DEXTROMETHORPHAN HYDROBROMIDE,Drug,Text
+,,,Actifed Expectorant Ingredients,TRIPROLIDINE HCL + PSEUDOEPHEDRINE HCL + GUAIFENESIN,Drug,Text
+,,,Omeprazole,,Drug,Text
+,,,Gynera Ingredients,ETHINYLESTRADIOL + GESTODENE,Drug,Text
+,,,Cefuroxime Sodium,,Drug,Text
+,,,Butamirate Citrate,,Drug,Text
+,,,Salbutamol Sulfate,,Drug,Text
+,,,Cefuroxime Axetil,,Drug,Text
+,,,Mequitazine,,Drug,Text
+,,,Thyme Fluid-Extract,,Drug,Text
+,,,Daktacort Ingredients,MICONAZOLE NITRATE + HYDROCORTISONE ACETATE,Drug,Text
+,,,Miconazole Nitrate,,Drug,Text
+,,,Miconazole,,Drug,Text
+,,,Bronchicum Elixir S Ingredients,PRIMULA ROOT LIQUID EXTRACT + THYME FLUID EXTRACT,Drug,Text
+,,,Lotriderm Ingredients,BETAMETHASONE + CLOTRIMAZOLE,Drug,Text
+,,,Ketotifen,,Drug,Text
+,,,Standarized Lyophilized Bacterial Lysates,,Drug,Text
+,,,Clobetasol Propionate,,Drug,Text
+,,,Crotamiton,,Drug,Text
+,,,Betamethasone Dipropionate,,Drug,Text
+,,,Phospholipids,,Drug,Text
+,,,Betamethasone,,Drug,Text
+,,,Itraconazole,,Drug,Text
+,,,Tibolone,,Drug,Text
+,,,Calcipotriol,,Drug,Text
+,,,Betamethasone Valerate,,Drug,Text
+,,,Diprosalic Ingredients,BETAMETHASONE DIPROPIONATE + SALICYLIC ACID,Drug,Text
+,,,Buserelin Acetate,,Drug,Text
+,,,Sumatriptan Succinate,,Drug,Text
+,,,Mupirocin,,Drug,Text
+,,,Betaxolol Hcl,,Drug,Text
+,,,Flu-Kit Ingredients,PARACETAMOL + PHENYLEPHRINE HCL + PROMETHAZINE HCL + SALICYLAMIDE,Drug,Text
+,,,Cimetidine,,Drug,Text
+,,,"Dried, Protein-Free, Chemically And Biologically Standardized Dialysate From Calve'S Blood",,Drug,Text
+,,,Solcoseryl Dental Adhesive Paste Ingredients,"DRIED, PROTEIN-FREE, CHEMICALLY AND BIOLOGICALLY STANDARDIZED DIALYSATE FROM CALVE'S BLOOD + POLIDOCANOL",Drug,Text
+,,,Gentamicin Sulfate,,Drug,Text
+,,,Panderm Ingredients,GRAMICIDIN 0.25MG/G + NEOMYCIN SULFATE 4.16 MG/G + NYSTATIN 100000IU/G + TRIAMCINOLONE ACETONIDE 1MG/G,Drug,Text
+,,,Panderm Ingredients,GRAMICIDIN 0.25MG/G + NEOMYCIN SULFATE 4.16MG/G + NYSTATIN 22.72MG/G + TRIAMCINOLONE ACETONIDE 1MG/G,Drug,Text
+,,,Gemfibrozil,,Drug,Text
+,,,Sodium Fusidate,,Drug,Text
+,,,Fusidic Acid,,Drug,Text
+,,,Fucicort Ingredients,BETAMETHASONE + FUSIDIC ACID,Drug,Text
+,,,Octreotide,,Drug,Text
+,,,Clomipramine Hcl,,Drug,Text
+,,,Amlodipine Besylate,,Drug,Text
+,,,Pyralvex Ingredients,RHUBARB EXTRACT + SALICYLIC ACID,Drug,Text
+,,,Duofilm Ingredients,LACTIC ACID + SALICYLIC ACID,Drug,Text
+,,,Tetracycline Hcl,,Drug,Text
+,,,Moxal Ingredients,ALUMINIUM HYDROXIDE + MAGNESIUM HYDROXIDE,Drug,Text
+,,,Ondansetron,,Drug,Text
+,,,Gyno-Flor Ingredients,ESTRIOL 0.03MG + VIABLE LACTOBACILLUS ACIDOPHILUS AT LEAST 10 MILLION CFU,Drug,Text
+,,,Fluticasone Propionate,,Drug,Text
+,,,Vigabatrin,,Drug,Text
+,,,Lidocaine,,Drug,Text
+,,,Glipizide,,Drug,Text
+,,,Finasteride,,Drug,Text
+,,,Zestoretic Ingredients,HYDROCHLOROTHIAZIDE + LISINOPRIL DIHYDRATE,Drug,Text
+,,,Bonjela Ingredients,CETALKONIUM CHLORIDE + CHOLINE SALICYLATE,Drug,Text
+,,,Orofar Ingredients,BENZOXONIUM CL + LIDOCAINE HCL,Drug,Text
+,,,Orofar Ingredients,BENZOXONIUM CHLORIDE + LIDOCAINE HCL,Drug,Text
+,,,Daflon Ingredients,DIOSMIN + HESPERIDIN,Drug,Text
+,,,Nicotine,,Drug,Text
+,,,Famotidine,,Drug,Text
+,,,Lidocaine Hcl,,Drug,Text
+,,,Felodipine,,Drug,Text
+,,,Ketoconazole,,Drug,Text
+,,,Flecainide Acetate,,Drug,Text
+,,,Xylometazoline Hcl,,Drug,Text
+,,,Idarubicin Hcl,,Drug,Text
+,,,Glibenclamide,,Drug,Text
+,,,Clarithromycin,,Drug,Text
+,,,Econazole Nitrate,,Drug,Text
+,,,Pevisone Ingredients,ECONAZOLE NITRATE + TRIAMCINOLONE ACETONIDE,Drug,Text
+,,,Desmopressin Acetate,,Drug,Text
+,,,Sofradex Ingredients,DEXAMETHASONE + FRAMYCETIN SULFATE + GRAMICIDIN,Drug,Text
+,,,Dexamethasone,,Drug,Text
+,,,Naphcon-A Ingredients,NAPHAZOLINE HCL + PHENIRAMINE MALEATE,Drug,Text
+,,,Maxitrol Ingredients,DEXAMETHASONE 1MG/ML + NEOMYCIN SULFATE 3500IU/ML + POLYMYXIN B SULFATE 6000IU/ML,Drug,Text
+,,,Maxitrol Ingredients,DEXAMETHASONE 1MG/G + NEOMYCIN SULFATE 3500IU/G + POLYMYXIN B SULFATE 6000IU/G,Drug,Text
+,,,Lisinopril,,Drug,Text
+,,,Tears Natural Ingredients,DEXTRAN 70 + HYDROXYPROPYL METHYLCELLULOSE,Drug,Text
+,,,Tropicamide,,Drug,Text
+,,,Hamamelis Water,,Drug,Text
+,,,Ultracortenol Ingredients,PREDNISOLONE ACETATE + PREDNISOLONE PIVALATE,Drug,Text
+,,,Prednisolone Pivalate,,Drug,Text
+,,,"Insulin Human Nph, Isophane Suspension (Rdna Origin)",,Drug,Text
+,,,Insulin Human Regular (Rdna),,Drug,Text
+,,,Granisetron,,Drug,Text
+,,,Loperamide Hcl,,Drug,Text
+,,,Augmentin Ingredients,AMOXICILLIN + CLAVULANIC ACID,Drug,Text
+,,,Domperidone,,Drug,Text
+,,,Allopurinol,,Drug,Text
+,,,Insulin Human (Rdna),,Drug,Text
+,,,Mefloquine,,Drug,Text
+,,,Cytarabine,,Drug,Text
+,,,Busulfan,,Drug,Text
+,,,Mercaptopurine,,Drug,Text
+,,,Melphalan,,Drug,Text
+,,,Azathioprine,,Drug,Text
+,,,Tioguanine,,Drug,Text
+,,,Chlorambucil,,Drug,Text
+,,,Mebendazole,,Drug,Text
+,,,Labetalol Hcl,,Drug,Text
+,,,Metoprolol Tartrate,,Drug,Text
+,,,Propranolol Hcl,,Drug,Text
+,,,Albendazole,,Drug,Text
+,,,Bisoprolol Fumarate,,Drug,Text
+,,,Doxorubicin Hcl,,Drug,Text
+,,,Dried Ivy Leaf Extract,,Drug,Text
+,,,Dried Ivy Leaf Extract Ethanolic,,Drug,Text
+,,,Tyrothricin,,Drug,Text
+,,,Paroxetine Hcl,,Drug,Text
+,,,Mebeverine Hcl,,Drug,Text
+,,,Kaptin Ingredients,KAOLIN + PECTIN,Drug,Text
+,,,Lamotrigine,,Drug,Text
+,,,Hyoscine-N-Butyl Bromide,,Drug,Text
+,,,Tobradex Ingredients,DEXAMETHASONE + TOBRAMYCIN,Drug,Text
+,,,Anginova Ingredients,DEQUALINIUM CHLORIDE + LIDOCAINE HCL,Drug,Text
+,,,Xyloproct Ingredients,LIDOCAINE + HYDROCORTISONE ACETATE,Drug,Text
+,,,Doxiproct Ingredients,CALCIUM DOBESILATE + LIDOCAINE HCL,Drug,Text
+,,,Doxiproct Plus Ingredients,CALCIUM DOBESILATE + DEXAMETHASONE + LIDOCAINE HCL,Drug,Text
+,,,Procto-Glyvenol Ingredients,LIDOCAINE HCL + TRIBENOSIDE,Drug,Text
+,,,Trachitol Ingredients,LIDOCAINE HCL + PROPYL-4-HYDROXYBENZOATE + ALUMEN,Drug,Text
+,,,Policresulen,,Drug,Text
+,,,Docusate Sodium,,Drug,Text
+,,,Madopar Ingredients,LEVODOPA + BENSERAZIDE,Drug,Text
+,,,Bezafibrate,,Drug,Text
+,,,Sinemet Ingredients,LEVODOPA + CARBIDOPA,Drug,Text
+,,,Diazepam,,Drug,Text
+,,,Sodium Valproate,,Drug,Text
+,,,Procyclidine Hcl,,Drug,Text
+,,,Librax Ingredients,CHLORDIAZEPOXIDE + CLIDINIUM BROMIDE,Drug,Text
+,,,Clonazepam,,Drug,Text
+,,,Amantadine Hcl,,Drug,Text
+,,,Bromazepam,,Drug,Text
+,,,Bisacodyl,,Drug,Text
+,,,Glyceryl Trinitrate,,Drug,Text
+,,,Hydralazine Hcl,,Drug,Text
+,,,Piracetam,,Drug,Text
+,,,Morphine Sulfate,,Drug,Text
+,,,Digoxin,,Drug,Text
+,,,Lynestrenol,,Drug,Text
+,,,Methyldopa,,Drug,Text
+,,,Lactulose,,Drug,Text
+,,,Betahistine Dihydrochloride,,Drug,Text
+,,,Metoclopramide Hcl,,Drug,Text
+,,,Senokot` Ingredients,SENNA PODS POWDERED + SENNOSIDE A+B,Drug,Text
+,,,Fybogel Orange Ingredients,ISPAGHULA HUSKS + RIBOFLAVIN SODIUM PHOSPHATE,Drug,Text
+,,,Microgynon 30 Ingredients,LEVONORGESTREL + ETHINYLESTRADIOL,Drug,Text
+,,,Hydrochlorothiazide,,Drug,Text
+,,,Moduretic Ingredients,AMILORIDE HCL + HYDROCHLOROTHIAZIDE,Drug,Text
+,,,Spironolactone,,Drug,Text
+,,,Magnesium Citrate,,Drug,Text
+,,,Carbamazepine,,Drug,Text
+,,,Tamoxifen Citrate,,Drug,Text
+,,,Alfacalcidol,,Drug,Text
+,,,Multi-Sanostol Ingredients,RETINOL PALMITATE (VIT A) 2400IU/10ML + COLECALCIFEROL (VIT D3) 200IU/10ML + THIAMINE HCL (VIT B1) 2MG/10ML + RIBOFLAVIN (VIT B2) 2MG/10ML + PYRIDOXINE HCL (VIT B6) 1MG/10ML + ASCORBIC ACID 100MG/10ML + ALPHA TOCOPHEROL ACETATE (VIT E) 2MG/10ML + NICOTINAMIDE 10MG/10ML + DEXPANTHENOL 4MG/10ML + CALCIUM GLUCONATE 50MG/10ML + CALCIUM PHOSPHOLACTATE 50MG/10ML,Drug,Text
+,,,Clomifene Citrate,,Drug,Text
+,,,Agiolax Ingredients,ISPAGHULA HUSKS 0.11G + ISPAGHULA SEEDS 2.6G + TINNEVELLY SENNA PODS 0.34-0.66G,Drug,Text
+,,,Magnesium Hydroxide,,Drug,Text
+,,,Menthol,,Drug,Text
+,,,Cinnarizine,,Drug,Text
+,,,Tazocin Ingredients,PIPERACILLIN SODIUM + TAZOBACTAM SODIUM,Drug,Text
+,,,Tenoretic Ingredients,ATENOLOL + CHLORTHALIDONE,Drug,Text
+,,,Amiodarone Hcl,,Drug,Text
+,,,Tinidazole,,Drug,Text
+,,,Soybean Phospholipids,,Drug,Text
+,,,Neurobion Forte Ingredients,CYANOCOBALAMIN + PYRIDOXINE HCL + THIAMINE DISULFIDE,Drug,Text
+,,,Daunorubicin Hcl,,Drug,Text
+,,,Epirubicin Hcl,,Drug,Text
+,,,Sulpiride,,Drug,Text
+,,,Multivitamins & Minerals,,Drug,Text
+,,,Methylprednisolone Acetate,,Drug,Text
+,,,Methylprednisolone,,Drug,Text
+,,,Hydrocortisone Sodium Succinate,,Drug,Text
+,,,Methylprednisolone Sodium Succinate,,Drug,Text
+,,,Diprofos Ingredients,BETAMETHASONE DIPROPIONATE + BETAMETHASONE DISODIUM PHOSPHATE,Drug,Text
+,,,Diphenhydramine Hcl,,Drug,Text
+,,,Trospium Chloride,,Drug,Text
+,,,Metronidazole,,Drug,Text
+,,,Neurorubine Forte Lactab Ingredients,THIAMINE NITRATE + PYRIDOXINE HCL + CYANOCOBALAMIN,Drug,Text
+,,,Disodium Clodronate Tetrahydrate,,Drug,Text
+,,,Intard Ingredients,ATROPINE SULFATE + DIPHENOXYLATE HCL,Drug,Text
+,,,Iopromide,,Drug,Text
+,,,Prednisolone,,Drug,Text
+,,,Neurobion Ingredients,CYANOCOBALAMIN + PYRIDOXINE HCL + THIAMINE HCL,Drug,Text
+,,,Furazol Ingredients,DILOXANIDE FUROATE + METRONIDAZOLE,Drug,Text
+,,,Testosterone Undecanoate,,Drug,Text
+,,,Piribedil,,Drug,Text
+,,,Mefenamic Acid,,Drug,Text
+,,,Doxycycline,,Drug,Text
+,,,Calcium Dobesilate,,Drug,Text
+,,,Pentoxifylline,,Drug,Text
+,,,Sustanon Ingredients,TESTOSTERONE PHENYLPROPIONATE + TESTOSTERONE PROPIONATE + TESTOSTERONE ISOCAPROATE + TESTOSTERONE DRCANNOATE,Drug,Text
+,,,Potassium Sodium Hydrogen Citrate,,Drug,Text
+,,,Aescin,,Drug,Text
+,,,Polygynax Ingredients,NEOMYCIN SULFATE + NYSTATIN + POLYMYXIN B SULFATE,Drug,Text
+,,,Clarinase Ingredients,PSEUDOEPHEDRINE SULFATE + LORATADINE,Drug,Text
+,,,Diane-35 Ingredients,CYPROTERONE ACETATE + ETHINYLESTRADIOL,Drug,Text
+,,,Nalidixic Acid,,Drug,Text
+,,,Trachisan Ingredients,LIDOCAINE HCL + TYROTHRICIN + CHLORHEXIDINE GLUCONATE,Drug,Text
+,,,Furosemide,,Drug,Text
+,,,Sodium Cromoglicate,,Drug,Text
+,,,Progyluton Ingredients,ESTRADIOL VALERATE + NORGESTREL,Drug,Text
+,,,Hydroxyprogesterone Caproate,,Drug,Text
+,,,Sulphasalazine,,Drug,Text
+,,,Mesterolone,,Drug,Text
+,,,Riabal Compound Ingredients,PRIFINIUM BROMIDE + PARACETAMOL,Drug,Text
+,,,Rodogyl Ingredients,METRONIDAZOLE 125MG + SPIRAMYCIN 0.75 MUI,Drug,Text
+,,,Glucagon,,Drug,Text
+,,,Nifedipine,,Drug,Text
+,,,Ampicillin,,Drug,Text
+,,,Hexetidine,,Drug,Text
+,,,Betamethasone Sodium Phosphate,,Drug,Text
+,,,Timolol Maleate,,Drug,Text
+,,,Ophtazoline Ingredients,ANTAZOLINE SULFATE + NAPHAZOLINE NITRATE,Drug,Text
+,,,B.S.S. (Balanced Salt Solution) Ingredients,SODIUM CHLORIDE 6.4 MG/ML + SODIUM CITRATE + DIHYDRATE 1.7MG/ML + SODIUM ACETATE + TRIHYDRATE 3.9MG/ML + POTASSIUM CHLORIDE 0.75MG/ML + CACIUM CHLORIDE DIHYDRATE 0.48MG/ML + MAGNESIUM CHLORIDE HEXAHYDRATE 0.3MG/ML,Drug,Text
+,,,Acitretin,,Drug,Text
+,,,Oxymetazoline Hcl,,Drug,Text
+,,,Emla Ingredients,LIDOCAINE + PRILOCAINE,Drug,Text
+,,,Triptorelin,,Drug,Text
+,,,Budesonide,,Drug,Text
+,,,Dimetapp Ingredients,BROMPHENIRAMINE MALEATE + PSEUDOEPHEDRINE HCL,Drug,Text
+,,,Fluvoxamine Maleate,,Drug,Text
+,,,Uricol Ingredients,HEXAMINE + KHELLIN + PIPERAZINE CITRATE,Drug,Text
+,,,Berocca Calcium And Magnesium Ingredients,THIAMINE HCL 15MG + RIBOFLAVIN 15MG + PYRIDOXINE HCL 10MG + CYANOCOBALAMIN 10MCG + NICOTINAMIDE 50MG + PANTOTHENIC ACID 23MG + BIOTIN 150MCG + ASCORBIC ACID 1000MG + CALCIUM 100MG + MAGNESIUM 100MG,Drug,Text
+,,,Neurovit Ingredients,THIAMINE HCL + PYRIDOXINE HCL + CYANOCOBALAMIN,Drug,Text
+,,,Diclofenac Diethylammonium,,Drug,Text
+,,,Haemoproct Ingredients,TRIBENOSIDE + LIDOCAINE HCL,Drug,Text
+,,,Promethazine Hcl,,Drug,Text
+,,,Dextromethorphan Hydrobromide,,Drug,Text
+,,,Multivitamins & Minerals With Ginseng,,Drug,Text
+,,,Multivitamins & Minerals With Lysine,,Drug,Text
+,,,Azithromycin,,Drug,Text
+,,,Naproxen,,Drug,Text
+,,,Reparil N Ingredients,DIETHYLAMINE SALICYLATE + ESCIN,Drug,Text
+,,,Vinorelbine Tartrate,,Drug,Text
+,,,Levocabastine Hcl,,Drug,Text
+,,,Rowachol Ingredients,MENTHOL 32MG + MENTHONE 6MG + ALPHA PINENE 13.6MG + BETA PINENE 3.4MG + BORNEOL 5MG + CINEOLE 2MG + CAMPHENE 5MG,Drug,Text
+,,,Rowatinex Ingredients,ALPHA PINENE 24.8MG + BETA PINENE 6.2MG + CAMPHENE 15MG + CINEOLE 3MG + FENCHONE 4MG + BORNEOL 10MG + ANETHOL 4MG,Drug,Text
+,,,Carbenoxolone Sodium,,Drug,Text
+,,,Rowatanal Ingredients,BISMUTH SUBGALLATE + CALCIUM CARBONATE + MENTHOL + ZINC OXIDE,Drug,Text
+,,,Silymarin,,Drug,Text
+,,,Alprostadil,,Drug,Text
+,,,Neobacin Ingredients,BACITRACIN ZINC 250IU/G + NEOMYCIN SULFATE 5MG/G,Drug,Text
+,,,Mivacurium Chloride,,Drug,Text
+,,,Diltiazem Hcl,,Drug,Text
+,,,Valaciclovir Hcl,,Drug,Text
+,,,Verapamil Hcl,,Drug,Text
+,,,Insulin Human (70% Insulin Human Isophane Suspension & 30% Insulin Human Injection) (Rdna Origin),,Drug,Text
+,,,Ketoprofen,,Drug,Text
+,,,Hydrocortisone,,Drug,Text
+,,,Folic Acid,,Drug,Text
+,,,Glycerin,,Drug,Text
+,,,Sedofan Dm Ingredients,DEXTROMETHORPHAN HYDROBROMIDE + PSEUDOEPHEDRINE HCL + TRIPROLIDINE HCL,Drug,Text
+,,,Sedofan Ingredients,PSEUDOEPHEDRINE HCL + TRIPROLIDINE HCL,Drug,Text
+,,,Citalopram Hydrobromide,,Drug,Text
+,,,Losartan Potassium,,Drug,Text
+,,,Isoflurane,,Drug,Text
+,,,Desflurane,,Drug,Text
+,,,Spiramycin,,Drug,Text
+,,,Erythropoietin,,Drug,Text
+,,,Dentinox Teething Gel Ingredients,CETYLPYRIDINIUM CHLORIDE + LIGNOCAINE HCL,Drug,Text
+,,,Activated Dimethicone Emulsion,,Drug,Text
+,,,Methylphenidate Hcl,,Drug,Text
+,,,Terbinafine Hcl,,Drug,Text
+,,,Dimetindene Maleate,,Drug,Text
+,,,Tretinoin,,Drug,Text
+,,,Acarbose,,Drug,Text
+,,,Quinapril Hcl,,Drug,Text
+,,,Metoprolol Succinate,,Drug,Text
+,,,Mometasone Furoate,,Drug,Text
+,,,Fluconazole,,Drug,Text
+,,,Gaviscon Original Aniseed Ingredients,CALCIUM CARBONATE + SODIUM ALGINATE + SODIUM BICARBONATE,Drug,Text
+,,,Flavaco With Hydrocortisone Ingredients,POLYMIXIN B SULFATE 0.10% + NEOMYCIN SULFATE 0.25% + AMINACRINE HCL 0.10% + BENZOCAINE 2% + HYDROCORTISONE 0.02%,Drug,Text
+,,,Logimax Ingredients,FELODIPINE + METOPROLOL SUCCINATE,Drug,Text
+,,,Diclofenac Diethylamine,,Drug,Text
+,,,Phenytoin Sodium,,Drug,Text
+,,,Cefaclor,,Drug,Text
+,,,Phenylephrine Hcl,,Drug,Text
+,,,Piroxicam,,Drug,Text
+,,,Chloramphenicol,,Drug,Text
+,,,Sulfacetamide Sodium,,Drug,Text
+,,,Prednisolone Acetate,,Drug,Text
+,,,Hepatitis B Surface Antigen,,Drug,Text
+,,,Oxcarbazepine,,Drug,Text
+,,,Olfen Ingredients,DICLOFENAC SODIUM + LIDOCAINE HCL,Drug,Text
+,,,Pectolyn Expectorant Ingredients,AMMONIUM CHLORIDE + DIPHENHYDRAMINE HCL + SODIUM CITRATE,Drug,Text
+,,,Amydramine Paediatric Ingredients,DIPHENHYDRAMINE HCL + SODIUM CITRATE + MENTHOL  ,Drug,Text
+,,,Hepatitis A Virus Antigen,,Drug,Text
+,,,Heparin Sodium,,Drug,Text
+,,,Pantoprazole,,Drug,Text
+,,,Rennie Ingredients,CALCIUM CARBONATE + MAGNESIUM CARBONATE,Drug,Text
+,,,Phytomenadione,,Drug,Text
+,,,Cetirizine Hcl,,Drug,Text
+,,,Meloxicam,,Drug,Text
+,,,Meropenem Trihydrate,,Drug,Text
+,,,Tobramycin,,Drug,Text
+,,,Cefadroxil Monohydrate,,Drug,Text
+,,,Acetylsalicylic Acid,,Drug,Text
+,,,Mycophenolate Mofetil,,Drug,Text
+,,,Activated Attapulgite,,Drug,Text
+,,,Dorzolamide Hcl,,Drug,Text
+,,,Otocol Ingredients,CHLORAMPHENICOL + BENZOCAINE,Drug,Text
+,,,Alverine Citrate,,Drug,Text
+,,,Decal B12 Ingredients,CALCIUM LEVULINATE + VIT B12 + VIT D3,Drug,Text
+,,,Cafamol Ingredients,PARACETAMOL + DOXYLAMINE SUCCINATE + CAFFEINE,Drug,Text
+,,,Sevoflurane,,Drug,Text
+,,,Risperidone,,Drug,Text
+,,,Diosmin,,Drug,Text
+,,,Glycerol,,Drug,Text
+,,,Octocaine 100 Ingredients,EPINEPHRINE + LIDOCAINE HCL,Drug,Text
+,,,Saquinavir,,Drug,Text
+,,,Diethylamine Salicylate,,Drug,Text
+,,,Trachisan Sore Throat Gargle Ingredients,LIDOCAINE + CHLORHEXIDINE GLUCONATE,Drug,Text
+,,,Metformin Hcl,,Drug,Text
+,,,Chondroitin Polysulfate (Mucopolysaccharide Polysulfate),,Drug,Text
+,,,Ofloxacin,,Drug,Text
+,,,B.B.C Ingredients,BENZOCAINE + BENZYDAMINE HCL + CETALKONIUM CHLORIDE,Drug,Text
+,,,Moxal Plus Ingredients,ALUMINIUM HYDROXIDE + MAGNESIUM HYDROXIDE + SIMETHICONE,Drug,Text
+,,,Vitamin C (Julfar) Ingredients,ASCORBIC ACID + SODIUM ASCORBATE,Drug,Text
+,,,Phenidex Ingredients,DEXAMETHASONE + CHLORAMPHENICOL,Drug,Text
+,,,Stressease Ingredients,BIOTIN 15MCG + CALCIUM 150MG + FOLIC ACID 1MG + MAGNESIUM 75MG + NIACINAMIDE 50MG + PANTOTHENIC ACID 20MG + RIBOFLAVIN 35MG + THIAMINE 35MG + CYANOCOBALAMIN 30MCG + PYRIDOXINE 15MG + VIT C 500MG + VIT E 30IU + ZINC 5MG,Drug,Text
+,,,D-Alpha-Tocopherol,,Drug,Text
+,,,Levothyroxine Sodium,,Drug,Text
+,,,B-Sitosterol,,Drug,Text
+,,,Interferon Alfa-2A,,Drug,Text
+,,,Cisatracurium,,Drug,Text
+,,,Lansoprazole,,Drug,Text
+,,,Adenosine,,Drug,Text
+,,,Doxazosin,,Drug,Text
+,,,Infanrix Im Ingredients,DIPTHERIA TOXOID NLT 30IU/0.5ML + TETANUS TOXOID NLT 40IU/0.5ML + PERTUSSIS TOXOID 25MCG/0.5ML + FILAMENTOUS HEMAGGLUTININ 25MCG/0.5ML + PERTACTIN 8MCG/0.5ML,Drug,Text
+,,,Anastrozole,,Drug,Text
+,,,Topiramate,,Drug,Text
+,,,Bicalutamide,,Drug,Text
+,,,Medijel Ingredients,AMINOACRIDINE HCL + LIGNOCAINE HCL,Drug,Text
+,,,Glimepiride,,Drug,Text
+,,,Live Attenuated Varcella Virus (Oka Strain) Nlt 2000 Pfu/0.5Ml,,Drug,Text
+,,,Olanzapine,,Drug,Text
+,,,Mirtazapine,,Drug,Text
+,,,Goserelin Acetate,,Drug,Text
+,,,Sertraline Hcl,,Drug,Text
+,,,Isosorbide Mononitrate,,Drug,Text
+,,,Calcium Carbonate,,Drug,Text
+,,,Solpadeine Soluble Ingredients,PARACETAMOL + CODEINE PHOSPHATE + CAFFEINE,Drug,Text
+,,,Formoterol Fumarate Dihydrate,,Drug,Text
+,,,Hyzaar Ingredients,HYDROCHLOROTHIAZIDE + LOSARTAN POTASSIUM,Drug,Text
+,,,Malarone Ingredients,ATOVAQUONE + PROGUANIL HCL,Drug,Text
+,,,Stresstabs 600 With Zinc Ingredients,COPPER 0.9MG + FOLIC ACID 500MCG + NIACINAMIDE 100MG + PANTOTHENIC ACID 25MG + THIAMINE 30MG + CYANOCOBALAMIN 25MCG + RIBOFLAVIN 10MG + PYRIDOXINE 10MG + VIT C 600MG + VIT E 45IU + ZINC 23.9MG,Drug,Text
+,,,Naratriptan Hcl,,Drug,Text
+,,,Calcitriol,,Drug,Text
+,,,Indapamide,,Drug,Text
+,,,Remifentanil Hcl,,Drug,Text
+,,,Sodium Chloride,,Drug,Text
+,,,Dextrose Monohydrate,,Drug,Text
+,,,5% Dexrtose In 0.18% Sodium Chloride Ingredients,SODIUM CHLORIDE + DEXTROSE,Drug,Text
+,,,Mannitol,,Drug,Text
+,,,Lactated Ringer'S & Dextrose 5% Ingredients,SODIUM CHLORIDE 0.598G/100ML + POTASSIUM CHLORIDE 0.030G/100ML + CALCIUM CHLORIDE 0.020G/100ML + SODIUM LACTATE 0.310G/100ML + DEXTROSE ANHYDROUS 5G/100ML,Drug,Text
+,,,Ringer'S Injection Ingredients,SODIUM CHLORIDE + POTASSIUM CHLORIDE + CALCIUM CHLORIDE,Drug,Text
+,,,Water For Injection,,Drug,Text
+,,,Lactated Ringer'S Injection Ingredients,SODIUM CHLORIDE 0.598G/100ML + POTASSIUM CHLORIDE 0.030G/100ML + CALCIUM CHLORIDE 0.020G/100ML + SODIUM LACTATE 0.310G/100ML,Drug,Text
+,,,Ferrous Gluconate,,Drug,Text
+,,,Cyanocobalamin,,Drug,Text
+,,,Quetiapine Fumarate,,Drug,Text
+,,,Cefpodoxime Proxetil,,Drug,Text
+,,,Rituximab,,Drug,Text
+,,,Letrozol,,Drug,Text
+,,,B Complex With Vitamin C Ingredients,ASCORBIC ACID 250MG + THIAMINE 5MG + RIBOFLAVIN 5MG + NIACINAMIDE 50MG + PANTOTHENIC ACID 25MG + PYRIDOXINE 5MG + FOLIC ACID 50MCG + CYANOCOBALAMIN 10MCG + BIOTIN 10MCG + PARA-AMINO BENZOIC ACID 15MG + CHOLINE 50MG + INOSITOL 50MG,Drug,Text
+,,,Vitamin A Ingredients,CYANOCOBALAMIN + D-PANTHENOL + FERROUS GLUCONATE + L-LYSINE HCL,Drug,Text
+,,,Povidone Iodine,,Drug,Text
+,,,Mesalazine,,Drug,Text
+,,,Sage Fluid-Extract,,Drug,Text
+,,,Sildenafil Citrate,,Drug,Text
+,,,Enoxaparin Sodium,,Drug,Text
+,,,B-Complex (Jamieson) Ingredients,BIOTIN + CHOLINE BITARTRATE + FOLIC ACID + INOSITOL,Drug,Text
+,,,Movicol Ingredients,MACROGOL + POTASSIUM CHLORIDE + SODIUM BICARBONATE + SODIUM CHLORIDE,Drug,Text
+,,,Human Immunoglobulin Anti-D Rh Factor,,Drug,Text
+,,,Chlorhexidine Gluconate,,Drug,Text
+,,,Permethrin,,Drug,Text
+,,,Lamivudine,,Drug,Text
+,,,Combivir Ingredients,LAMIVUDINE + ZIDOVUDINE,Drug,Text
+,,,Cephalexin Monohydrate,,Drug,Text
+,,,Pravastatin Sodium,,Drug,Text
+,,,Cabergoline,,Drug,Text
+,,,Carvedilol,,Drug,Text
+,,,Montelukast Sodium,,Drug,Text
+,,,Prifinium Bromide,,Drug,Text
+,,,"Multivitamins, Minerals And Trace Elements",,Drug,Text
+,,,Ascorbic Acid,,Drug,Text
+,,,Cal-C-Vita Ingredients,CALCIUM 250MG + COLECALCIFEROL 300IU + PYRIDOXINE HCL 15MG + ASCORBIC ACID 1G,Drug,Text
+,,,Deep Relief Ingredients,IBUPROFEN + LEVOMENTHOL,Drug,Text
+,,,Zolmitriptan,,Drug,Text
+,,,Fexofenadine Hcl,,Drug,Text
+,,,Combivent Udv Ingredients,SALBUTAMOL + IPRATROPIUM BROMIDE,Drug,Text
+,,,10% Dextran 40 Iv Infusion In 0.9%W/V Sodium Chloride Iv Infusion Ingredients,DEXTRAN 40 + SODIUM CHLORIDE,Drug,Text
+,,,Half-Strength Lactated Ringer'S & Dextrose 5% Ingredients,SODIUM CHLORIDE 0.299G/100ML + POTASSIUM CHLORIDE 0.015G/100ML + CALCIUM CHLORIDE 0.010G/100ML + SODIUM LACTATE 0.155G/100ML + DEXTROSE MONOHYDRATE 5G/100ML,Drug,Text
+,,,6% W/V Dextran 70 In 0.9% W/V Sodium Chloride Iv Infusion Ingredients,DEXTRAN 70 + SODIUM CHLORIDE,Drug,Text
+,,,10% W/V Dextran 40 In 5% W/V Dextrose Iv Infusion Ingredients,DEXTRAN 40 + DEXTROSE,Drug,Text
+,,,Latanoprost,,Drug,Text
+,,,Rocuronium Bromide,,Drug,Text
+,,,Doxycycline Hyclate,,Drug,Text
+,,,Follitropin Alfa,,Drug,Text
+,,,Botulinum Toxin Type A (From Clostridium Botulinum),,Drug,Text
+,,,Orlistat,,Drug,Text
+,,,Cosopt Ingredients,DORZOLAMIDE HCL + TIMOLOL MALEATE,Drug,Text
+,,,Salmon Calcitonin Synthetic,,Drug,Text
+,,,Twinrix Adult Ingredients,HEPATITIS A VIRUS (INACTIVATED) 720 ELISA UNITS + HEPATITIS B SURFACE ANTIGEN 20MCG,Drug,Text
+,,,Capecitabine,,Drug,Text
+,,,Pramipexole,,Drug,Text
+,,,Sifrol Ingredients,PRAMIPEXOLE + UROFOLLITROPINA,Drug,Text
+,,,Donepezil,,Drug,Text
+,,,Telmisartan,,Drug,Text
+,,,Irinotecan Hcl Trihydrate,,Drug,Text
+,,,Neo-Healar Ingredients,LUPINUS ALBUS + VATERIA INDICA + PEPPERMINT OIL + ALOE VERA,Drug,Text
+,,,Peglec Ingredients,POLYETHYLENE GLYCOL 118G + POTASSIUM CHLORIDE 1.484G + SODIUM BICARBONATE 3.37G + SODIUM CHLORIDE 2.93G + SODIUM SULFATE ANHYDROUS 11.36G,Drug,Text
+,,,Gracial Ingredients,DESOGESTREL 0.025MG & 0.125MG + ETHINYLESTRADIOL 0.040MG & 0.030MG,Drug,Text
+,,,Co-Diovan Ingredients,HYDROCHLOROTHIAZIDE + VALSARTAN,Drug,Text
+,,,Recombinant Interferon Alfa-2B,,Drug,Text
+,,,Depakine Chrono Ingredients,SODIUM VALPROATE + VALPROIC ACID,Drug,Text
+,,,Octreotide Acetate,,Drug,Text
+,,,Lemsip Max Flu Lemon Ingredients,ASCORBIC ACID + PARACETAMOL + PSEUDOEPHEDRINE HCL,Drug,Text
+,,,Captopril,,Drug,Text
+,,,Hepatitis A Virus Vaccine,,Drug,Text
+,,,Para Special Lice Ingredients,DEPALLETHRIN + PIPERONYL BUTOXIDE,Drug,Text
+,,,Tolterodine Tartrate,,Drug,Text
+,,,Nadroparin Calcium,,Drug,Text
+,,,Basiliximab,,Drug,Text
+,,,Iron (As Iron Iii Hydroxide Sucrose Complex),,Drug,Text
+,,,Ferrous Sulfate,,Drug,Text
+,,,N P B Ingredients,BACITRACIN ZINC 4000IU/10G + NEOMYCIN SULFATE 35MG/10G + POLYMYXIN B SULFATE 50000IU/10G,Drug,Text
+,,,Seretide Diskus Ingredients,FLUTICASONE PROPIONATE + SALMETEROL XINAFOATE,Drug,Text
+,,,Palivizumab,,Drug,Text
+,,,Fucidin H Ingredients,FUSIDIC ACID + HYDROCORTISONE ACETATE,Drug,Text
+,,,Repaglinide,,Drug,Text
+,,,Nystalocal Ingredients,CHLORHEXIDINE DIHYDROCHLORIDE 11.50 MG/G + DEXAMETHASONE 1MG/G + NYSTATIN 100000IU/G,Drug,Text
+,,,Fluvastatin,,Drug,Text
+,,,Dill Oil,,Drug,Text
+,,,Exylin Paediatric Ingredients,DIPHENHYDRAMINE HCL + MENTHOL,Drug,Text
+,,,Iron (As Iron Iii Polymaltose),,Drug,Text
+,,,Iron,,Drug,Text
+,,,Ceftazidime,,Drug,Text
+,,,Eptifibatide,,Drug,Text
+,,,Clozapine,,Drug,Text
+,,,Deferoxamine Mesylate,,Drug,Text
+,,,Adapalene,,Drug,Text
+,,,Benzoyl Peroxide,,Drug,Text
+,,,Celecoxib,,Drug,Text
+,,,Clopidogrel Bisulfate,,Drug,Text
+,,,Locacorten Tar Ingredients,COAL TAR + FLUMETHASONE,Drug,Text
+,,,Locacorten - Vioform Ingredients,CLIOQUINOL + FLUMETASONE PIVALATE,Drug,Text
+,,,Amorolfine Hcl,,Drug,Text
+,,,Rabeprazole Sodium,,Drug,Text
+,,,Cyteal Ingredients,CHLORHEXIDINE DIGLUCONATE 0.50ML/100ML + CHLOROCRESOL 0.30G/100ML + HEXAMIDINE DI-ISETHIONATE 0.10G/100ML,Drug,Text
+,,,Trastuzumab,,Drug,Text
+,,,Cafergot Ingredients,ERGOTAMINE TARTRATE + CAFFEINE,Drug,Text
+,,,Dermobacter Ingredients,BENZALKONIUM CHLORIDE + CHLORHEXIDINE DIGLUCONATE,Drug,Text
+,,,Irbesartan,,Drug,Text
+,,,Aspirin 'C' Ingredients,ACETYLSALICYLIC ACID + ASCORBIC ACID,Drug,Text
+,,,Travocort Ingredients,ISOCONAZOLE NITRATE + DIFLUCORTOLONE VALERATE,Drug,Text
+,,,Azelaic Acid,,Drug,Text
+,,,Methylprednisolone Aceponate,,Drug,Text
+,,,Tacrolimus,,Drug,Text
+,,,Benzocaine,,Drug,Text
+,,,Baclofen,,Drug,Text
+,,,M-M-R I I Vaccine Ingredients,MEASLES VIRUS VACCINE + MUMPS VACCINE (LIVE ATTENUATED) + RUBELLA VACCINE,Drug,Text
+,,,Peppermint Oil,,Drug,Text
+,,,Ibandronic Acid,,Drug,Text
+,,,Zanamivir,,Drug,Text
+,,,Infliximab,,Drug,Text
+,,,Nisita Nasal Ointment Ingredients,SODIUM BICARBONATE + SODIUM CHLORIDE,Drug,Text
+,,,Woodwards Gripe Water Ingredients,TERPENELESS DILL SEED OIL + SODIUM BICARBONATE,Drug,Text
+,,,Pizotifen,,Drug,Text
+,,,Ganciclovir Sodium,,Drug,Text
+,,,Exemestane,,Drug,Text
+,,,Tirofiban,,Drug,Text
+,,,Ciclosporin,,Drug,Text
+,,,Misoprostol,,Drug,Text
+,,,"Hepatitis B Virus Antigen, Recombinant (Hbsag)",,Drug,Text
+,,,Fluoxetine Hcl,,Drug,Text
+,,,Epoetin Beta,,Drug,Text
+,,,Hyaluronic Acid Sodium Salt,,Drug,Text
+,,,Fortzaar Ingredients,LOSARTAN POTASSIUM + HYDROCHLOROTHIAZIDE,Drug,Text
+,,,Dramylin - Pediatric Ingredients,DIPHENHYDRAMINE HCL + SODIUM CITRATE + MENTHOL,Drug,Text
+,,,Dramylin Ingredients,DIPHENHYDRAMINE HCL + AMMONIUM CHLORIDE,Drug,Text
+,,,Cyproterone Acetate,,Drug,Text
+,,,Aloxal Ingredients,ALUMINIUM HYDROXIDE + MAGNESIUM OXIDE,Drug,Text
+,,,Moxifloxacin,,Drug,Text
+,,,Atorvastatin Hemicalcium,,Drug,Text
+,,,Eprosartan Mesilate,,Drug,Text
+,,,Rubicalm Ingredients,CHLORBUTOL + DIETHYLAMINE SALICYLATE + MENTHOL,Drug,Text
+,,,Candesartan Cilexetil,,Drug,Text
+,,,Alendronate Sodium,,Drug,Text
+,,,Yasmin Ingredients,DROSPIRENONE + ETHINYLESTRADIOL,Drug,Text
+,,,Flutab Ingredients,PARACETAMOL + DIPHENHYDRAMINE HCL + PSEUDOEPHEDRINE HCL,Drug,Text
+,,,Ferose-F Ingredients,IRON (AS IRON III POLYMALTOSE) + FOLIC ACID,Drug,Text
+,,,Ciprofloxacin Hcl,,Drug,Text
+,,,Kaletra Ingredients,LOPINAVIR + RITONAVIR,Drug,Text
+,,,Moxonidine,,Drug,Text
+,,,Oseltamivir,,Drug,Text
+,,,Activated Charcoal,,Drug,Text
+,,,Levofloxacin,,Drug,Text
+,,,Zoledronic Acid,,Drug,Text
+,,,Levonorgestrel,,Drug,Text
+,,,Alfuzosin Hcl,,Drug,Text
+,,,Fludrex Ingredients,PARACETAMOL + CHLORPHENIRAMINE MALEATE + PSEUDOEPHEDRINE HCL,Drug,Text
+,,,Fludrex Ingredients,PARACETAMOL + CHLORPHENIRAMINE MALEATE + CAFFEINE + PSEUDOEPHEDRINE HCL,Drug,Text
+,,,Lidocaine Hcl With Epinephrine Ingredients,LIDOCAINE HCL + EPINEPHRINE,Drug,Text
+,,,Panadol Sinus Ingredients,PARACETAMOL + PSEUDOEPHEDRINE HCL,Drug,Text
+,,,Dexmedetomidine Hcl,,Drug,Text
+,,,Listerine Antiseptic Ingredients,EUCALYPTOL 0.092% + MENTHOL 0.042% + METHYL SALICYLATE 0.060% + THYMOL 0.064%,Drug,Text
+,,,Dobutamine Hcl,,Drug,Text
+,,,Esomeprazole,,Drug,Text
+,,,Tenecteplase,,Drug,Text
+,,,Atosiban,,Drug,Text
+,,,Famciclovir,,Drug,Text
+,,,Vancomycin,,Drug,Text
+,,,Progesterone,,Drug,Text
+,,,Mupirocin ,,Drug,Text
+,,,Imatinib Mesylate,,Drug,Text
+,,,Dalteparin Sodium,,Drug,Text
+,,,Optizolin Ingredients,ANTAZOLINE HCL + TETRAHYDROZOLINE HCL,Drug,Text
+,,,Etonogestrel,,Drug,Text
+,,,Claritin-D- 24 Hour Ingredients,LORATADINE + PSEUDOEPHEDRINE SULFATE,Drug,Text
+,,,Optidex T Ingredients,TOBRAMYCIN + DEXAMETHASONE,Drug,Text
+,,,Gabapentin,,Drug,Text
+,,,Desogestrel,,Drug,Text
+,,,Human Albumin Octapharma Ingredients,ALBUMIN + PROTEIN,Drug,Text
+,,,Peginterferon Alfa-2A,,Drug,Text
+,,,Levetiracetam,,Drug,Text
+,,,Desloratadine,,Drug,Text
+,,,Imunoglobulin,,Drug,Text
+,,,Valsartan,,Drug,Text
+,,,Becozyme Forte Ingredients,"NICOTINAMIDUM + CALCIUM PANTOTHENATE + THIAMINE NITRATE + RIBOFLAVIN+ PYRIDOXINE
+HCL + BIOTIN+ CYANOCOBALAMIN
+",Drug,Text
+,,,Symbicort Turbuhaler Ingredients,BUDESONIDE + FORMOTEROL,Drug,Text
+,,,Optifresh Ingredients,POLYVINYL ALCOHOL + POVIDONE K-29/32,Drug,Text
+,,,Abacavir,,Drug,Text
+,,,Ganirelix,,Drug,Text
+,,,Fevadol Extra Ingredients,PARACETAMOL + CAFFEINE,Drug,Text
+,,,Follitropin Beta,,Drug,Text
+,,,Venlafaxine,,Drug,Text
+,,,Brinzolamide,,Drug,Text
+,,,Flumed Ingredients,CHLORPHENIRAMINE MALEATE + PSEUDOEPHEDRINE HCL,Drug,Text
+,,,Nystatin,,Drug,Text
+,,,Trizivir Ingredients,ABACAVIR + LAMIVUDINE + ZIDOVUDINE,Drug,Text
+,,,Lomefloxacin,,Drug,Text
+,,,Amikacin Sulfate,,Drug,Text
+,,,Thiamine Hcl,,Drug,Text
+,,,Etoricoxib,,Drug,Text
+,,,Recombinant Interferon Beta-1B,,Drug,Text
+,,,Darbepoetin Alfa,,Drug,Text
+,,,Leflunomide,,Drug,Text
+,,,Carbimazole,,Drug,Text
+,,,Flavoxate Hcl,,Drug,Text
+,,,Menotrophin (Fsh & Lh),,Drug,Text
+,,,Decatylene Ingredients,DEQUALINIUM CHLORIDE + DIBUCAINE HCL,Drug,Text
+,,,Zinc Gluconate,,Drug,Text
+,,,Betazol Ingredients,BETAMETHASONE DIPROPIONATE + MICONAZOLE NITRATE,Drug,Text
+,,,Folicron Ingredients,FERROUS SULFATE 150MG + FOLIC ACID 500MCG,Drug,Text
+,,,Theophylline (Anhydrous),,Drug,Text
+,,,Vitamin A+D Drops Ingredients,VIT A + VIT D3,Drug,Text
+,,,Gliclazide,,Drug,Text
+,,,Filgrastim,,Drug,Text
+,,,Acetylcysteine,,Drug,Text
+,,,Reteplase,,Drug,Text
+,,,Fluorometholone,,Drug,Text
+,,,Sapofen Cold And Flu Ingredients,IBUPROFEN + PSEUDOEPHEDRINE HCL,Drug,Text
+,,,Strepsils Plus Ingredients,"2, 4 - DICHLOROBENZYL ALCOHOL + AMYLMETACRESOL + LIDOCAINE HCL",Drug,Text
+,,,Cefdinir,,Drug,Text
+,,,Accuzide Ingredients,HYDROCHLOROTHIAZIDE + QUINAPRIL,Drug,Text
+,,,Salbutamol Sulphate,,Drug,Text
+,,,Mentex Ingredients,DIPHENHYDRAMINE HCL 12.5MG/5ML + DEXTROMETHORPHAN HYDROBROMIDE 15MG/5ML + PSEUDOEPHEDRINE HCL 30MG/5ML + AMMONIUM CHLORIDE 125MG/5ML + SODIUM CITRATE 57MG/5ML + MENTHOL 1MG/5ML,Drug,Text
+,,,Xalacom Ingredients,LATANOPROST + TIMOLOL,Drug,Text
+,,,Glucovance Ingredients,GLIBENCLAMIDE + METFORMIN HCL,Drug,Text
+,,,Pantoprazole Sodium,,Drug,Text
+,,,Tiotropium Bromide,,Drug,Text
+,,,Norethisterone,,Drug,Text
+,,,Naphazoline Nitrate,,Drug,Text
+,,,Ors (Oral Rehydration Salt) Ingredients,SODIUM CHLORIDE + POTASSIUM CHLORIDE + TRISODIUM CITRATE DIHYDRATE + ANHYDROUS DEXTROSE,Drug,Text
+,,,Bupropion Hcl,,Drug,Text
+,,,Escitalopram,,Drug,Text
+,,,Caspofungin Acetate,,Drug,Text
+,,,Insulin Glargine,,Drug,Text
+,,,Levocetirizine Dihydrochloride,,Drug,Text
+,,,Parecoxib,,Drug,Text
+,,,Eletriptan Hydrobromide,,Drug,Text
+,,,Sirolimus,,Drug,Text
+,,,Micardis Plus Ingredients,TELMISARTAN + HYDROCHLOROTHIAZIDE,Drug,Text
+,,,Ziprasidone Hcl,,Drug,Text
+,,,Ezetimibe,,Drug,Text
+,,,Ertapenem,,Drug,Text
+,,,Tadalafil,,Drug,Text
+,,,Biphasic Insulin Aspart,,Drug,Text
+,,,Insulin Aspart,,Drug,Text
+,,,Atropine Sulfate,,Drug,Text
+,,,Neodex Ingredients,DEXAMETHASONE + NEOMYCIN SULFATE,Drug,Text
+,,,Tinzaparin Sodium,,Drug,Text
+,,,Valganciclovir,,Drug,Text
+,,,Baneocin Ingredients,BACITRACIN ZINC + NEOMYCIN SULFATE,Drug,Text
+,,,Daivobet Ingredients,BETAMETHASONE DIPROPIONATE + CALCIPOTRIOL,Drug,Text
+,,,Mycophenolic Acid,,Drug,Text
+,,,Enemax Ingredients,DISODIUM PHOSPHATE + MONOSODIUM PHOSPHATE,Drug,Text
+,,,Rosuvastatin Calcium,,Drug,Text
+,,,Brimonidine Tartrate,,Drug,Text
+,,,Pimecrolimus,,Drug,Text
+,,,Vecuronium Bromide,,Drug,Text
+,,,Naftifine Hcl,,Drug,Text
+,,,Atacand Plus Ingredients,CANDESARTAN CILEXETIL + HYDROCHLOROTHIAZIDE,Drug,Text
+,,,Vardenafil,,Drug,Text
+,,,Somatropin,,Drug,Text
+,,,Milnacipran,,Drug,Text
+,,,Pioglitazone Hcl,,Drug,Text
+,,,Fluca Ingredients,FLUOROMETHOLONE + SODIUM CROMOGLICATE,Drug,Text
+,,,Croma Ingredients,SODIUM CROMOGLICATE + TETRAHYDROZOLINE HCL,Drug,Text
+,,,Fusibact-B Ingredients,BETAMETHASONE VALERATE + FUSIDIC ACID,Drug,Text
+,,,Ribavirin,,Drug,Text
+,,,Roxithromycin,,Drug,Text
+,,,Ziprasidone,,Drug,Text
+,,,Adalimumab,,Drug,Text
+,,,Oculac Ingredients,SODIUM CHLORIDE + HYPROMELLOSE,Drug,Text
+,,,Earcalm Ingredients,PHENAZONE + BENZOCAINE,Drug,Text
+,,,Dried Ferrous Sulfate,,Drug,Text
+,,,Otilonium Bromide,,Drug,Text
+,,,Nuvaring Ingredients,ETHINYLESTRADIOL + ETONOGESTREL,Drug,Text
+,,,Trimetazidine Dihydrochloride,,Drug,Text
+,,,Memantine Hcl,,Drug,Text
+,,,Tarka Ingredients,TRANDOLAPRIL + VERAPAMIL HCL,Drug,Text
+,,,Ca-C 1000 Sandoz Ingredients,ASCORBIC ACID + CALCIUM CARBONATE + CALCIUM LACTATE-GLUCONATE,Drug,Text
+,,,Calcium - Sandoz Forte Ingredients,CALCIUM CARBONATE + CALCIUM LACTATE GLUCONOATE,Drug,Text
+,,,Gaviscon Advance Ingredients,SODIUM ALGINATE + POTASSIUM BICARBONATE,Drug,Text
+,,,Cirrus Ingredients,CETIRIZINE DIHYDROCHLORIDE + PSEUDOEPHEDRINE HCL,Drug,Text
+,,,Theophylline Hydrate,,Drug,Text
+,,,Gefitinib,,Drug,Text
+,,,Human Albumin,,Drug,Text
+,,,Loxtra Ingredients,OFLOXACIN + PREDNISOLONE ACETATE + TETRAHYDROZOLINE HCL,Drug,Text
+,,,Freeze Dried Human Coagulation,,Drug,Text
+,,,Jogel Ingredients,JOJOBA OIL + LIDOCAINE HCL,Drug,Text
+,,,Neuroton Ingredients,THIAMINE HCL 250MG + PYRIDOXINE HCL 200MG + CYANOCOBALAMIN 0.25MG + RIBOFLAVIN 15MG + FOLIC ACID 0.5MG,Drug,Text
+,,,Topotecan Hcl,,Drug,Text
+,,,Lercanidipine,,Drug,Text
+,,,Teriparatide,,Drug,Text
+,,,Imiquimod,,Drug,Text
+,,,Zinc Oxide,,Drug,Text
+,,,Cetirizine Dihydrochloride,,Drug,Text
+,,,Anti-D Immunoglobulin,,Drug,Text
+,,,Elica-M Ingredients,MICONAZOLE NITRATE + MOMETASONE FUROATE,Drug,Text
+,,,Carboxymethyl Cysteine,,Drug,Text
+,,,Mr.Tumee Ingredients,ASCORBIC ACID + ECHINACEA + SODIUM + ZINC,Drug,Text
+,,,Urofollitropin,,Drug,Text
+,,,Human Menopausal Gonadotropin,,Drug,Text
+,,,Dimenhydrinate,,Drug,Text
+,,,Coaprovel Ingredients,IRBESARTAN + HYDROCHLOROTHIAZIDE,Drug,Text
+,,,Omega-3-Acid Ethyl Esters,,Drug,Text
+,,,Unifed Extra Ingredients,TRIPROLIDINE HCL + PSEUDOEPHEDRINE HCL + DEXTROMETORPHAN HBR + GUAIFENESIN,Drug,Text
+,,,Isoconazole Nitrate,,Drug,Text
+,,,Azonit-D Ingredients,DIFLUCORTOLONE VALERATE + ISOCONAZOLE NITRATE,Drug,Text
+,,,Lodoz Ingredients,BISOPROLOL FUMARATE + HYDROCHLOROTHIAZIDE,Drug,Text
+,,,Evra Ingredients,ETHINYLESTRADIOL + NORELGESTROMIN,Drug,Text
+,,,Diphelin Paediatric Ingredients,DIPHENHYDRAMINE HCL + MENTHOL + SODIUM CITRATE,Drug,Text
+,,,Bortezomib (As Mannitol Boronic Ester),,Drug,Text
+,,,Efavirenz,,Drug,Text
+,,,Elicasal Ingredients,MOMETASONE FUROATE + SALICYLIC ACID,Drug,Text
+,,,Bevacizumab,,Drug,Text
+,,,Atomoxetine Hcl,,Drug,Text
+,,,Gatifloxacin,,Drug,Text
+,,,Cefradine,,Drug,Text
+,,,Insulin Detemir Rdna,,Drug,Text
+,,,Inegy Ingredients,EZETIMIBE + SIMVASTATIN,Drug,Text
+,,,Cyclo 3 Fort Ingredients,DRY RUSCUS EXTRACT TITRATED IN STEROLIC HETEROSIDES + HESPERIDIN METHYL CHALCONE + ASCORBIC ACID,Drug,Text
+,,,Levobupivacaine Hcl,,Drug,Text
+,,,Etamsylate,,Drug,Text
+,,,Infanrix Hexa Ingredients,DIPTHERIA TOXOID NLT 30IU/0.5ML + TETANUS TOXOID NLT 40IU/0.5ML + PERTUSSIS TOXOID 25MCG/0.5ML + FILAMENTOUS HEMAGGLUTININ 25MCG/0.5ML + PERTACTIN 8MCG/0.5ML + R-DNA HEPATITIS B SURFACE ANTIGEN 10MCG/0.5ML + IPV TYPE 1 40DU/0.5ML + IPV TYPE 2 8DU/0.5ML + IPV TYPE 3 32DU/0.5ML + CONJUGATE OF H. INFLUENZAE TYPE B CAPSULAR POLYSACCHARIDE (PRP) AND TETANUS TOXOID + ADSORBED (PRP-T) 10MCG AND 20-40MCG/0.5ML,Drug,Text
+,,,Betonate-N Ingredients,BETAMETHASONE + NEOMYCIN SULFATE,Drug,Text
+,,,Betonate-N Ingredients,BETAMETHASONE VALERATE + NEOMYCIN SULFATE,Drug,Text
+,,,"Human Plasma Protein 50Mg, Of Which Immunoglobulin At Least 95% Igm 6Mg, Iga 6Mg, Igg 38Mg Per Ml",,Drug,Text
+,,,Erythromycin,,Drug,Text
+,,,Erythromycin Ethylsuccinate,,Drug,Text
+,,,Pemetrexed,,Drug,Text
+,,,Cefditoren Pivoxil,,Drug,Text
+,,,Terbutaline Sulfate,,Drug,Text
+,,,Pegfilgrastim,,Drug,Text
+,,,Deferasirox,,Drug,Text
+,,,Stalevo Ingredients,LEVODOPA + CARBIDOPA + ENTACAPONE,Drug,Text
+,,,Nizatidine,,Drug,Text
+,,,Loxoprofen,,Drug,Text
+,,,Sumatriptan,,Drug,Text
+,,,Adefovir Dipivoxil,,Drug,Text
+,,,Drill Lemon Mint Ingredients,CHLORHEXIDINE GLUCONATE + TETRACAINE HCL,Drug,Text
+,,,Opizole-B Ingredients,BETAMETHASONE DIPROPIONATE + CLOTRIMAZOLE,Drug,Text
+,,,Pansoral Ingredients,CHOLINE SALICYLATE + CETALKONIUM CHLORIDE,Drug,Text
+,,,Tigecycline,,Drug,Text
+,,,Quinagolide,,Drug,Text
+,,,Dutasteride,,Drug,Text
+,,,Mecobalamin,,Drug,Text
+,,,Influenza Virus Subunit Vaccine,,Drug,Text
+,,,Duloxetine Hcl,,Drug,Text
+,,,Fentanyl,,Drug,Text
+,,,Pregabalin,,Drug,Text
+,,,Caduet Ingredients,AMLODIPINE BESYLATE + ATORVASTATIN CALCIUM,Drug,Text
+,,,Erlotinib,,Drug,Text
+,,,Cefotaxime,,Drug,Text
+,,,Voriconazole,,Drug,Text
+,,,Entecavir,,Drug,Text
+,,,Ivabradine,,Drug,Text
+,,,Cetrimide,,Drug,Text
+,,,Paricalcitol,,Drug,Text
+,,,Vitamin B99 Complex Ingredients,ASCORBIC ACID 240MG + THIAMINE HCL 99MG + RIBOFLAVIN 99MG + NIACIN 99MG + PYRIDOXINE 99MG + FOLIC ACID 99MCG + CYANOCOBALAMIN 20MCG + BIOTIN 99MCG + PANTOTHENIC ACID 99MG + IRON 9MG + CHOLINE BITARTRATE 99MG + INOSITOL 99MG + PARA AMINO BENZOIC ACID 99MG,Drug,Text
+,,,Vit E,,Drug,Text
+,,,Plantago Ovata Seeds,,Drug,Text
+,,,Mupirocin Calcium,,Drug,Text
+,,,Rotateq Ingredients,HUMAN - BOVINE ROTAVIRUS REASSORTANTS LIVE TYPE G1 - NLT 2.2 X 106 IU + HUMAN - BOVINE ROTAVIRUS REASSORTANTS LIVE TYPE G2 - NLT 2.8 X 106 IU + HUMAN - BOVINE ROTAVIRUS REASSORTANTS LIVE TYPE G3 - NLT 2.2 X 106 IU + HUMAN - BOVINE ROTAVIRUS REASSORTANTS LIVE TYPE G4 - NLT 2.0 X 106 IU + HUMAN - BOVINE ROTAVIRUS REASSORTANTS LIVE TYPE P1A[8] - NLT 2.3 X 106 IU,Drug,Text
+,,,Testosterone,,Drug,Text
+,,,Carbetocin,,Drug,Text
+,,,Resolve Plus Ingredients,MICONAZOLE NITRATE + HYDROCORTISONE,Drug,Text
+,,,Teveten Plus Ingredients,EPROSARTAN MESILATE + HYDROCHLOROTHIAZIDE,Drug,Text
+,,,Deferiprone,,Drug,Text
+,,,Sertindole,,Drug,Text
+,,,Oralite (Oral Rehydration Salts Mixture) Ingredients,DEXTROSE ANHYDROUS + SODIUM CHLORIDE + POTASSIUM CHLORIDE + SODIUM CITRATE DIHYDRATE,Drug,Text
+,,,Profinal Xp Ingredients,IBUPROFEN + CAFFEINE,Drug,Text
+,,,Sunitinib Malate,,Drug,Text
+,,,Perindopril Arginine,,Drug,Text
+,,,Alka-Ur Ingredients,CITRIC ACID + SODIUM BICARBONATE + TARTARIC ACID + TRISODIUM CITRATE,Drug,Text
+,,,Beclomethasone Dipropionate,,Drug,Text
+,,,Lapatinib Ditosylate,,Drug,Text
+,,,Lyophilized Lysate Of E.Coli,,Drug,Text
+,,,Varenicline,,Drug,Text
+,,,Hydroquinone,,Drug,Text
+,,,Bronkospan Ingredients,BROMHEXINE HCL + GUAIFENESIN + SALBUTAMOL SULFATE,Drug,Text
+,,,Dexpanthenol,,Drug,Text
+,,,Babyvit Ingredients,VITAMIN A (1000IU) 300MCG/ML + VITAMIN D (400IU) 10MCG/ML + VITAMIN E (7IU) 5MG/ML + ASCORBIC ACID 50MG/ML + THIAMINE 1.07MG/ML + RIBOFLAVIN 0.4MG/ML + NICOTINAMIDE 8MG/ML + PYRIDOXINE 0.4MG/ML + FOLIC ACID 55MCG/ML + CYANOCOBALAMIN 2MCG/ML,Drug,Text
+,,,Zinc Sulfate,,Drug,Text
+,,,5% Dextrose In 0.9% W/V Sodium Chlori Ingredients,DEXTROSE MONOHYDRATE + SODIUM CHLORIDE,Drug,Text
+,,,Babylyte (Ors) Ingredients,DEXTROSE AS MONOHYDRATE 25G/L + SODIUM CHLORIDE 2.045G/L + POTASSIUM CITRATE 2.162 G/L + SODIUM CITRATE 0.980 G/L,Drug,Text
+,,,Enalapril Maleate,,Drug,Text
+,,,Exforge Ingredients,AMLODIPINE BESYLATE + VALSARTAN,Drug,Text
+,,,Sitagliptin Phosphate,,Drug,Text
+,,,Cervarix Ingredients,HUMAN PAPILLOMAVIRUS -16 L1 PROTEIN + HUMAN PAPILLOMAVIRUS -18 L1 PROTEIN,Drug,Text
+,,,Ranibizumab,,Drug,Text
+,,,Oxaliplatin,,Drug,Text
+,,,Etanercept,,Drug,Text
+,,,Hyoscine N Butylbromind ,,Drug,Text
+,,,Gardasil Ingredients,TYPE 6 L1 PROTEIN 20MCG/0.5ML + TYPE 11 L1 PROTEIN 40MCG/0.5ML + TYPE 16 L1 PROTEIN 40MCG/0.5ML + TYPE 18 L1 PROTEIN 20MCG/0.5ML,Drug,Text
+,,,Everolimus,,Drug,Text
+,,,Methoxy Polyethylene Glycol-Epoetin Beta,,Drug,Text
+,,,Olmesartan Medoxomil,,Drug,Text
+,,,Nilotinib Hcl,,Drug,Text
+,,,Interferon Beta-1A,,Drug,Text
+,,,Olopatadine Hcl,,Drug,Text
+,,,Calvitalis Ingredients,CALCIUM LACTATE GLUCONATE 40MG/5ML + ASCORBIC ACID 50MG/5ML + VIT E ACETATE 1MG/5ML + DEXAPANTHENOL 2MG/5ML + NICOTINAMIDE 5MG/5ML + PYRIDOXINE HCL 0.5MG/5ML + RIBOFLAVIN 1MG/5ML + THIAMINE HCL 1MG/5ML + COLECALCIFEROL 0.0025MG/5ML + VIT A 0.705MG/5ML,Drug,Text
+,,,Fluticasone Furoate,,Drug,Text
+,,,Cetrorelix Acetate,,Drug,Text
+,,,Choriogonadotropin Alfa,,Drug,Text
+,,,Fenticonazole Nitrate,,Drug,Text
+,,,Cinacalcet Hcl,,Drug,Text
+,,,Sucralfate,,Drug,Text
+,,,Exenatide,,Drug,Text
+,,,Insulin Lispro,,Drug,Text
+,,,Insulin Lispro (25% Insulin Lispro And 75% Insulin Lispro Protamine Suspension(Rdna Origin)),,Drug,Text
+,,,Insulin Lispro (50% Insulin Lispro And 50% Insulin Lispro Protamine Suspension(Rdna Origin)),,Drug,Text
+,,,Fosavance Ingredients,ALENDRONIC ACID 70MG + COLECALCIFEROL (VIT D) 5600IU,Drug,Text
+,,,Dexatrol Ingredients,DEXAMETHASONE 1MG/ML + NEOMYCIN SULFATE 3.5MG/ML + POLYMYXIN B SULFATE 6000IU/ML,Drug,Text
+,,,Natalizumab,,Drug,Text
+,,,Gemifloxacin Mesylate,,Drug,Text
+,,,Highly Purified Urinary Follicle Stimulating Hormo,,Drug,Text
+,,,Duotrav Ingredients,TIMOLOL MALEATE 5MG/ML + TRAVOPROST 40MCG/ML,Drug,Text
+,,,Ramipril,,Drug,Text
+,,,Rotigotine,,Drug,Text
+,,,Ferrofol Ingredients,DRIED FERROUS SULFATE + FOLIC ACID,Drug,Text
+,,,Benzydamine Hcl,,Drug,Text
+,,,Iron (Iii) Hydroxide Polymaltose Complex,,Drug,Text
+,,,Pectomed Ingredients,GUAIFENESIN + PSEUDOEPHEDRINE HCL + TRIPROLIDINE HCL,Drug,Text
+,,,Bronchophane Ingredients,DEXTROMETHORPHAN HYDROBROMIDE + EPHEDRINE HCL + GUAIPHENESIN + DIPHENHYDRAMINE HCL,Drug,Text
+,,,Paliperidone,,Drug,Text
+,,,Fondaparinux Sodium,,Drug,Text
+,,,Dabigatran Etexilate Mesilate,,Drug,Text
+,,,Neo-Pol Ingredients,NEOMYCIN SULFATE 3.5MG/ML + POLYMYXIN B SULFATE 16250IU/ML,Drug,Text
+,,,Dasatinib,,Drug,Text
+,,,Tears Natural Free Ingredients,DEXTRAN 70 + HYPROMELLOSE,Drug,Text
+,,,Insulin Glulisine,,Drug,Text
+,,,Posaconazole,,Drug,Text
+,,,Vildagliptin,,Drug,Text
+,,,Chorionic Gonadotropin,,Drug,Text
+,,,Epinosine B Forte Ingredients,ADENOSINE TRIPHOSPHATE + COCARBOXYLASE  + NICOTINAMIDE  + CYANOCOBALAMIN ,Drug,Text
+,,,Calcicare Ingredients,CALCIUM CARBONATE 250MG/5ML + MAGNESIUM HYDROXIDE 75MG/5ML + VIT D 200IU/5ML + ZINC 2MG/5ML,Drug,Text
+,,,Vitane Ingredients,VIT A 1500IU/5ML + COLECALCIFEROL 100IU/5ML + VIT E 3MG/5ML + THIAMINE HCL 1.5MG + RIBOFLAVIN 1.5MG/5ML + PYRIDOXINE HCL 1MG/5ML + CYANOCOBALAMIN 1.5MCG/5ML + D-PANTHENOL 2.5MG/5ML + NICOTINAMIDE 5MG/5ML + ASCORBIC ACID 30MG/5ML + L-LYSINE HCL 40MG/5ML + IRON 5MG/5ML + ZINC 5MG/5ML + MAGNESIUM 10MG/5ML,Drug,Text
+,,,Dl-Alpha Tocopheryl Acetate,,Drug,Text
+,,,Preterax Arginine Ingredients,PERINDOPRIL ARGININE + INDAPAMIDE,Drug,Text
+,,,Janumet Ingredients,METFORMIN HCL + SITAGLIPTIN,Drug,Text
+,,,Galvusmet Ingredients,METFORMIN HCL + VILDAGLIPTIN,Drug,Text
+,,,Travoprost,,Drug,Text
+,,,Omalizumab,,Drug,Text
+,,,Coveram Ingredients,PERINDOPRIL ARGININE +AMLODIPINE BESYLATE ,Drug,Text
+,,,Sodium Hyaluronate,,Drug,Text
+,,,Amaryl M Ingredients,GLIMEPIRIDE + METFORMIN HCL,Drug,Text
+,,,Cilanem Ingredients,CILASTATIN SODIUM + IMIPENEM,Drug,Text
+,,,Nifuroxazide,,Drug,Text
+,,,Cefepime,,Drug,Text
+,,,Temsirolimus,,Drug,Text
+,,,Boostrix Ingredients,DIPTHERIA TOXOID NLT 2IU/0.5ML + TETANUS TOXOID NLT 20IU/0.5ML + PERTUSSIS TOXOID 8MCG/0.5ML + FILAMENTOUS HEMAGGLUTININ 8MCG/0.5ML + PERTACTIN 2.5MCG/0.5ML,Drug,Text
+,,,Desvenlafaxine,,Drug,Text
+,,,Sorafenib,,Drug,Text
+,,,Synflorix Ingredients,"PNEUMOCOCCAL POLYSACCHARIDE SEROTYPES 1, 5, 6B, 7F, 9V 14 & 23F 1MCG/0.5ML + PNEUMOCOCCAL POLYSACCHARIDE SEROTYPES 4, 18C & 19F 3MCG/0.5ML",Drug,Text
+,,,Rivastigmine,,Drug,Text
+,,,Maalox Ingredients,ALUMINIUM OXIDE + MAGNESIUM HYDROXIDE,Drug,Text
+,,,Flurbiprofen,,Drug,Text
+,,,Colicez Ingredients,DILL OIL 0.005ML/ML + FENNEL OIL 0.0007 ML/ML + SIMETHICONE 40MG/ML,Drug,Text
+,,,Vitane Ingredients,VIT A 1000IU/ML + COLECALCIFEROL 200IU/ML + THIAMINE HCL 1MG/ML + RIBOFLAVIN 0.5MG/ML + NICOTINAMIDE 5MG/ML + PYRIDOXINE HCL 0.6MG/ML + CYANOCOBALAMIN 1MCG/ML + IRON 2MG/ML + ZINC 1MG/ML,Drug,Text
+,,,Vitaglobin Liquid Tonic Ingredients,THIAMINE HCL 1.5MG/5ML + RIBOFLAVIN 1MG/5ML + PYRIDOXINE HCL 1MG/5ML + CYANOCOBALAMIN 2.5MCG/5ML + NICOTINAMIDE 10MG/5ML + FOLIC ACID 100MCG/5ML + D-PANTHENOL 2MG/5ML + ASCORBIC ACID 25MG/5ML + CALCIUM GLYCEROPHOSPHATE 10MG/5ML + IRON 10MG/5ML + ZINC 3MG/5ML + MANGANESE 0.25MG/5ML + COPPER 0.2MG/5ML + L-LYSINE HCL 20MG/5ML,Drug,Text
+,,,Tocilizumab,,Drug,Text
+,,,Clobetasone Butyrate,,Drug,Text
+,,,Co-Tritace Ingredients,RAMIPRIL + HYDROCHLOROTHIAZIDE,Drug,Text
+,,,Azarga Ingredients,BRINZOLAMIDE + TIMOLOL MALEATE,Drug,Text
+,,,Rivaroxaban,,Drug,Text
+,,,Itopride Hcl,,Drug,Text
+,,,Nonacog Alfa (Recombinat Coagulation Factor Ix),,Drug,Text
+,,,Raltegravir,,Drug,Text
+,,,Micardis Plus Ingredients,HYDROCHLOROTHIAZIDE + TELMISARTAN,Drug,Text
+,,,Fenofibrate,,Drug,Text
+,,,Telbivudine,,Drug,Text
+,,,Maraviroc,,Drug,Text
+,,,Defonase Ingredients,LORATADINE + PSEUDOEPHEDRINE HCL,Drug,Text
+,,,Pizotifen Maleate,,Drug,Text
+,,,Exforge Hct Ingredients,AMLODIPINE BESYLATE + HYDROCHLOROTHIAZIDE + VALSARTAN,Drug,Text
+,,,Hyaluronate Sodium,,Drug,Text
+,,,Liraglutide,,Drug,Text
+,,,Eltrombopag Olamine,,Drug,Text
+,,,Priorix-Tetra Ingredients,LIVE ATTENUATED MEASLES VIRUS NLT 103.0 CCID50 + LIVE ATTENUATED MUMPS VIRUS NLT 104.4 CCID50 + LIVE ATTENUATED RUBELLA VIRUS NLT 103.0 CCID50 + LIVE ATTENUATED VARICELLA VIRUS NLT 103.3 PFU,Drug,Text
+,,,Atrovent Comp Hfa Ingredients,IPRATROPIUM BROMIDE + FENOTEROL HYDROBROMIDE,Drug,Text
+,,,Moroctocog Alfa,,Drug,Text
+,,,Tamsulosin Hcl,,Drug,Text
+,,,Solifenacin Succinate,,Drug,Text
+,,,Bemiparin Sodium,,Drug,Text
+,,,Stopkof Ingredients,AMMONIUM CHLORIDE + DIPHENHYDRAMINE HCL,Drug,Text
+,,,Daptomycin,,Drug,Text
+,,,Aprepitant,,Drug,Text
+,,,Degarelix (As Acetate),,Drug,Text
+,,,Serenoa Repens,,Drug,Text
+,,,Qv Flare Up Bath Oil Ingredients,BENZALKONIUM CHLORIDE + PARAFFIN LIQUID + TRICLOSAN,Drug,Text
+,,,Pyridostigmine Bromide,,Drug,Text
+,,,Lenalidomide,,Drug,Text
+,,,Tizanidine,,Drug,Text
+,,,Cefprozil,,Drug,Text
+,,,Indacaterol,,Drug,Text
+,,,Revacod Ingredients,PARACETAMOL + CODEINE,Drug,Text
+,,,Saxagliptin,,Drug,Text
+,,,Aerinaze Ingredients,DESLORATADINE + PSEUDOEPHEDRINE SULFATE,Drug,Text
+,,,Eptacog Alfa (Activated),,Drug,Text
+,,,Hydrocortisone Acetate,,Drug,Text
+,,,Ivy Leaf Dried Extract,,Drug,Text
+,,,Pergoveris Ingredients,FOLLITROPIN ALFA + LUTROPIN ALFA,Drug,Text
+,,,Pazopanib Hcl,,Drug,Text
+,,,Amphotericin B (Lipid Complex),,Drug,Text
+,,,Agomelatine,,Drug,Text
+,,,Omol Cold & Flu Ingredients,PARACETAMOL + PSEUDOEPHEDRINE HCL + CHLORPHENIRAMINE MALEATE,Drug,Text
+,,,Spores Of Poly-Antibiotic Resistant Bacillus Clausii,,Drug,Text
+,,,Nonoxynol 9,,Drug,Text
+,,,Glibeta Ingredients,GLYBURIDE + METFORMIN HCL,Drug,Text
+,,,Canakinumab,,Drug,Text
+,,,Fingolimod Hcl,,Drug,Text
+,,,Anidulafungin,,Drug,Text
+,,,Trabectedin,,Drug,Text
+,,,Iron Sucrose,,Drug,Text
+,,,Docetaxel,,Drug,Text
+,,,"Human Rotavirus, Live Attenuated Rix4414 Strain Nlt 10^6.0 Ccid50/1.5Ml",,Drug,Text
+,,,Ezaderm Ingredients,FUSIDIC ACID + BETAMETHASONE VALERATE,Drug,Text
+,,,Ticagrelor,,Drug,Text
+,,,Resolve Nappy Rash Ingredients,MICONAZOLE + ZINC OXIDE,Drug,Text
+,,,Perindopril Tert-Butylamine,,Drug,Text
+,,,Clodronate Disodium,,Drug,Text
+,,,Zanipress Ingredients,LERCANIDIPINE HCL + ENALAPRIL MALEATE,Drug,Text
+,,,Sulbutiamine,,Drug,Text
+,,,Olmetec Plus Ingredients,OLMESARTAN MEDOXOMIL + HYDROCHLOROTHIAZIDE,Drug,Text
+,,,Abiraterone Acetate,,Drug,Text
+,,,Panadol Sinus Relief Pe Ingredients,PARACETAMOL + PHENYLEPHRINE HCL,Drug,Text
+,,,Panadol Cold & Flu Night Relief Pe Ingredients,PARACETAMOL + CHLORPHENIRAMINE MALEATE + PHENYLEPHRINE HCL,Drug,Text
+,,,Systane Ultra Ud Ingredients,HYDROXYPROPYL GUAR 8A 1.6 - 1.9MG + POLYETHYLENE GLYCOL 400 4MG + PROPYLENE GLYCOL 3MG + SORBITOL 14MG + POTASSIUM CHLORIDE 1.2MG + SODIUM CHLORIDE 1MG + BORIC ACID 7MG,Drug,Text
+,,,Neurovit Ingredients,THIAMINE HCL (VIT B1) + PYRIDOXINE HCL (VIT B6) + CYANOCOBALAMIN (VIT B12),Drug,Text
+,,,Ofatumumab,,Drug,Text
+,,,Clostridium Botulinum Type A Toxin Haemagglutinn Complex,,Drug,Text
+,,,Ritonavir,,Drug,Text
+,,,Leuprorelin Acetate,,Drug,Text
+,,,Twynsta Ingredients,TELMISARTAN + AMLODEPINE BESYLATE,Drug,Text
+,,,Acetaminophen,,Drug,Text
+,,,Kombiglyze Xr Ingredients,SAXAGLIPTIN + METFORMIN HCL,Drug,Text
+,,,Aramen Ingredients,MENINGOCOCCAL GROUP A 10MCG/0.5ML + MENINGOCOCCAL GROUP C 5MCG/0.5ML + MENINGOCOCCAL GROUP W-135 5MCG/0.5ML + MENINGOCOCCAL GROUP Y 5MCG/0.5ML,Drug,Text
+,,,Eperisone Hcl,,Drug,Text
+,,,Lutropin Alfa,,Drug,Text
+,,,Ceftriaxone Disodium Hemiheptahydrate,,Drug,Text
+,,,Fentanyl Citrate,,Drug,Text
+,,,Azelastine Hcl,,Drug,Text
+,,,Crizotinib,,Drug,Text
+,,,Apixaban,,Drug,Text
+,,,Prucalopride Succinate,,Drug,Text
+,,,Denosumab,,Drug,Text
+,,,Panitumumab,,Drug,Text
+,,,Drospirenone,,Drug,Text
+,,,Human Normal Immunoglobulin,,Drug,Text
+,,,Golimumab,,Drug,Text
+,,,Pertuzumab,,Drug,Text
+,,,Triamcinolone Acetonide,,Drug,Text
+,,,"Antihemophilic Factor (Recombinant)Viii, Formulated With Sucrose",,Drug,Text
+,,,Prednisolone Sodium Phosphate,,Drug,Text
+,,,Hydroxyethyl Starch 6%,,Drug,Text
+,,,Dextrose 5% And Sodium Chloride 0.9% Ingredients,DEXTROSE + SODIUM CHLORIDE,Drug,Text
+,,,Dextrose,,Drug,Text
+,,,Dienogest,,Drug,Text
+,,,Temozolomide,,Drug,Text
+,,,Reparil N Ingredients,AESCIN + DIETHYLAMINE SALICYLATE,Drug,Text
+,,,Ceftazidime (For Pentahydrate),,Drug,Text
+,,,Ephedrine Hcl,,Drug,Text
+,,,Methadone,,Drug,Text
+,,,Glycopyrronium Bromide,,Drug,Text
+,,,Magnesium Sulfate,,Drug,Text
+,,,Adrenaline Acid Tartrate,,Drug,Text
+,,,Ringers Lact. Solu. For Iv Inf. In Viaflex Ingredients,SODIUM CHLORIDE + CALCIUM CHLORIDE DIHYDRATE + POTASSIUM CHLORIDE + SODIUM LACTATE,Drug,Text
+,,,Compound Sodium Lactate Infusion Ingredients,SODIUM CHLORIDE 6G/L + POTASSIUM CHLORIDE 0.40G/L + CALCIUM CHLORIDE 2H2O 0.27G/L + SODIUM LACTATE 3.20G/L,Drug,Text
+,,,Potassium Chloride,,Drug,Text
+,,,Palonosetron Hcl,,Drug,Text
+,,,Nilotinib Hcl Monohydrate,,Drug,Text
+,,,Ebastine,,Drug,Text
+,,,Pethidine Hcl,,Drug,Text
+,,,Corifollitropin Alfa,,Drug,Text
+,,,Panadol Night Ingredients,PARACETAMOL + DIPHENHYDRAMINE HCL,Drug,Text
+,,,"Pneumococcal Polysacchride Conjugate Vaccine (13-Valent, Adsorbed)",,Drug,Text
+,,,Nicorandil,,Drug,Text
+,,,Clove Oil,,Drug,Text
+,,,Panadol Cold & Flu Day Ingredients,PARACETAMOL + CAFFEINE + PHENYLEPHRINE HCL,Drug,Text
+,,,Panadol Cold & Flu All In One Ingredients,PARACETAMOL + PHENYLEPHRINE HCL + GUAIFENESIN,Drug,Text
+,,,Nimodipin,,Drug,Text
+,,,Panadol Cold &Flu Hot Lemon & Honey Ingredients,PARACETAMOL + ASCORBIC ACID + PHENYLEPHRINE HCL,Drug,Text
+,,,Somatostatin Acetate Hydrate,,Drug,Text
+,,,Idursulfase,,Drug,Text
+,,,Aceclofenac,,Drug,Text
+,,,Pneumococcal Polysacchrides Danish,,Drug,Text
+,,,Dianeal Pd4 Glucose 1.36% Peritonial Dialysis Ingredients,GLUCOSE MONOHYDRATE + SODIUM CHLORIDE + SODIUM LACTATE + MAGNESIUM CHLORIDE HEXAHYDRATE + CALCIUM CHLORIDE DIHYDRATE,Drug,Text
+,,,Glycopyrronium,,Drug,Text
+,,,Ruxolitinib Phosphate,,Drug,Text
+,,,Pasireotide,,Drug,Text
+,,,Glucovance Ingredients,METFORMIN HCL + GLIBENCLAMIDE,Drug,Text
+,,,Novomix 50 Flexpen Ingredients,SOLUBLE INSULIN ASPART 50% + INSULIN ASPART CRYSTALLIED WITH PROTAMINE 50%,Drug,Text
+,,,Novomix 70 Flexpen Ingredients,SOLUBLE INSULIN ASPART 70% + INSULIN ASPART CRYSTALLIED WITH PROTAMINE 30%,Drug,Text
+,,,Bupivacaine Hcl,,Drug,Text
+,,,Dexlansoprazole,,Drug,Text
+,,,Bilastine,,Drug,Text
+,,,Hydrocortisone Butyrate,,Drug,Text
+,,,Janumet Xr Ingredients,SITAGLIPTIN PHOSPHATE + METFORMIN HCL,Drug,Text
+,,,Buprenorphine,,Drug,Text
+,,,Colecalciferol,,Drug,Text
+,,,Picoprep Ingredients,SODIUM PICOSULFATE + LIGHT MAGNESIUM OXIDE + CITRIC ACID ANHYDROUS,Drug,Text
+,,,Certolizumab Pegol,,Drug,Text
+,,,Aflibercept,,Drug,Text
+,,,Linezolid,,Drug,Text
+,,,Terlipressin,,Drug,Text
+,,,Pylera Ingredients,BISMUTH SUBCITRATE POTASSIUM + TETRACYCLINE HCL + METRONIDAZOLE,Drug,Text
+,,,Oxycodone Hcl,,Drug,Text
+,,,Olimel N7 E Emulsion For Infusion Ingredients,GLUCOSE SOLUTION + AMINO ACID + LIPID EMULSION + ELECTROLYTE,Drug,Text
+,,,Flupentixol Decanoate,,Drug,Text
+,,,Trastuzumab Emtansine,,Drug,Text
+,,,Regorafenib,,Drug,Text
+,,,Fampridine,,Drug,Text
+,,,Zineryt Lotion Ingredients,ERYTHROMYCIN + ZINC ACETATE,Drug,Text
+,,,Darunavir Ethanolate,,Drug,Text
+,,,Ketorolac Tromethamine,,Drug,Text
+,,,Axitinib,,Drug,Text
+,,,Bendamustine Hcl,,Drug,Text
+,,,Ketamine Hcl,,Drug,Text
+,,,Dasabuvir,,Drug,Text
+,,,Viekirax Ingredients,OMBITASVIR + PARITAPREVIR + RITONAVIR,Drug,Text
+,,,Daclatasvir Dihydrochloride,,Drug,Text
+,,,Bosentan,,Drug,Text
+,,,Dapoxetine Hcl,,Drug,Text
+,,,Phenobarbitone Sodium,,Drug,Text
+,,,Triplixam Ingredients,PERINDOPRIL ARGININE + INDAPAMIDE + AMLODIPINE,Drug,Text
+,,,Lacosamide,,Drug,Text
+,,,"Neiserria Meningitidis Group A,C,W-135 And Y Polyssacharide Each 5Mcg Conjugated With 44Mcg Tetanus Toxoid Carrier Protein 44Mcg",,Drug,Text
+,,,Calcium Chloride,,Drug,Text
+,,,Oral Bivalent Types 1 And 3 Poliomyelitis Vaccine Ingredients,"POLIOMYELITIS TYPE 1, LS-C2AB STRAIN (LIVE, ATTENUATED) AT LEAST 6.0 LOG CCID50 + POLIOMYELITIS TYPE 3, LEON-12A1B STRAIN (LIVE, ATTENUATED) AT LEAST 5.8 LOG CCID50",Drug,Text
+,,,Sodium Bicarbonate,,Drug,Text
+,,,Balanced Salt Solution Ingredients,SODIUM CHLORIDE 0.64G/100ML + POTASSIUM CHLORIDE 0.075G/100ML + CALCIUM CHLORIDE 0.048G/100ML + SODIUM ACETATE 0.39G/100ML + SODIUM CITRATE 0.17G/100ML,Drug,Text
+,,,Sevikar Ingredients,OLMESARTAN MEDOXOMIL + AMLODEPINE BESYLATE,Drug,Text
+,,,Ustekinumab,,Drug,Text
+,,,Entresto Ingredients,SACUBITRIL + VALSARTAN,Drug,Text
+,,,Alglucosidase Alfa,,Drug,Text
+,,,Enzalutamide,,Drug,Text
+,,,Ibrutinib,,Drug,Text
+,,,Ultibro Breezhaler Ingredients,INDACATEROL + GLYCOPYRRONIUM,Drug,Text
+,,,Afatinib Dimaleate,,Drug,Text
+,,,Neolyte Ingredients,SODIUM CHLORIDE + POTASSIUM CHLORIDE + SODIUM CITRATE + ANHYDROUS GLUCOSE,Drug,Text
+,,,Catridecacog,,Drug,Text
+,,,Azacitidine,,Drug,Text
+,,,Secukinumab,,Drug,Text
+,,,Pomalidomide,,Drug,Text
+,,,Latanocom Ingredients,LATANOPROST + TIMOLOL MALEATE,Drug,Text
+,,,Relvar Ellipta Ingredients,FLUTICASONE FUROATE + VILANTEROL,Drug,Text
+,,,Dolutegravir,,Drug,Text
+,,,Eribulin Mesylate,,Drug,Text
+,,,Hemamax-F Ingredients,IRON (III) HYDROXIDE POLYMALTOSE COMPLEX + FOLIC ACID,Drug,Text
+,,,Teriflunomide,,Drug,Text
+,,,Polio Virus (Sabin) Type 1 (Who) ?10 6.0 Ccid50 And Polio Virus (Sabin) Type 3 (Who) ?10 5.8 Ccid50,,Drug,Text
+,,,Duodart Ingredients,DUTASTERIDE + TAMSULOSIN HCL,Drug,Text
+,,,Riociguat,,Drug,Text
+,,,Insulin Degludec,,Drug,Text
+,,,Ipilimumab,,Drug,Text
+,,,Ceritinib,,Drug,Text
+,,,Flutiform Ingredients,FLUTICASONE PROPIONATE + FORMOTEROL FUMARATE DIHYDRATE,Drug,Text
+,,,Prismasol 2 Mmol/L Potassium Ingredients,COMPARTMENT A: CALCIUM CHLORIDE + MAGNESIUM CHLORIDE + GLUCOSE ANHYDROUS + LACTIC ACID + COMPARTMENT B: SODIUM CHLORIDE  POTASSIUM CHLORIDE + SODIUM BICARBONATE,Drug,Text
+,,,Palbociclib,,Drug,Text
+,,,Natrixam Ingredients,INDAPAMIDE + AMLODEPINE BESYLATE,Drug,Text
+,,,Targinact Ingredients,OXYCODONE HCL + NALOXONE HCL DIHYDRATE,Drug,Text
+,,,Dimethyl Fumarate,,Drug,Text
+,,,Ramucirumab,,Drug,Text
+,,,Carfilzomib,,Drug,Text
+,,,Hemosol Bo Ingredients,CALCIUM CHLORIDE DIHYDRATE 5.15MG + MAGNESIUM CHLORIDE HEXAHYDRATE 2.03MG + (S)-LACTIC ACID 5.4MG + SODIUM CHLORIDE 6.45MG + SODIUM HYDROGEN CARBONATE 3.09MG ,Drug,Text
+,,,Anoro Ellipta Ingredients,UMECLIDINIUM + VILANTEROL TRIFENATATE,Drug,Text
+,,,Blinatumomab,,Drug,Text
+,,,Agalsidase Beta,,Drug,Text
+,,,Exym Ingredients,IVY LEAF EXTRACT + THYME FLUID EXTRACT,Drug,Text
+,,,Cloxacillin Sodium,,Drug,Text
+,,,Pitavastatin,,Drug,Text
+,,,Nivolumab,,Drug,Text
+,,,Concor Am Ingredients,BISOPROLOL FUMARATE + AMLODEPINE,Drug,Text
+,,,Tofacitinib Citrate,,Drug,Text
+,,,Pancreatin,,Drug,Text
+,,,Empagliflozin,,Drug,Text
+,,,Imiglucerase,,Drug,Text
+,,,Co-Tabuvan Ingredients,VALSARTAN + HYDROCHLOROTHIAZIDE,Drug,Text
+,,,Canagliflozin,,Drug,Text
+,,,Phoxilium Ingredients,"SODIUM CHLORIDE + MAGNESIUM CHLORIDE HEXAHYDRATE + CALCIUM CHLORIDE DIHYDRATE + DISODIUM PHOSPHATE DIHYDRATE + SODIUM BICARBONATE, POTASSIUM CHLORIDE",Drug,Text
+,,,Calcium Polystyrene Sulfonate,,Drug,Text
+,,,Tedizolid,,Drug,Text
+,,,Zepatier Ingredients,ELBASVIR + GRAZOPREVIR,Drug,Text
+,,,Cefadroxil,,Drug,Text
+,,,Dapagliflozin,,Drug,Text
+,,,Alcaftadine,,Drug,Text
+,,,Ryzodeg Flex Touch Ingredients,INSULIN DEGLUDEC + INSULIN ASPART,Drug,Text
+,,,Akynzeo Ingredients,NETUPITANT + PALONOSETRON,Drug,Text
+,,,Pembrolizumab,,Drug,Text
+,,,Turoctocog Alfa,,Drug,Text
+,,,Idarucizumab,,Drug,Text
+,,,Evolocumab,,Drug,Text
+,,,Atozet Ingredients,EZETIMIBE + ATORVASTATIN CALCIUM,Drug,Text
+,,,Cefazoline Sodium,,Drug,Text
+,,,Febuxostat,,Drug,Text
+,,,Spiolto Respimat Ingredients,TIOTROPIUM BROMIDE + OLODATEROL,Drug,Text
+,,,Ixekizumab,,Drug,Text
+,,,Gardasil 9 Ingredients,TYPE 6 L1 PROTEIN 30MCG/0.5ML + TYPE 11 L1 PROTEIN 40MCG/0.5ML + TYPE 16 L1 PROTEIN 60MCG/0.5ML + TYPE 18 L1 PROTEIN 40MCG/0.5ML + TYPE 31 L1 PROTEIN 20MCG/0.5ML + TYPE 33 L1 PROTEIN 20MCG/0.5ML + TYPE 45 L1 PROTEIN 20MCG/0.5ML + TYPE 52 L1 PROTEIN 20MCG/0.5ML + TYPE 58 L1 PROTEIN 20MCG/0.5ML,Drug,Text
+,,,Sugammadex Sodium,,Drug,Text
+,,,Vismodegib,,Drug,Text
+,,,Alemtuzumab,,Drug,Text
+,,,Necitumumab,,Drug,Text
+,,,Aripiprazole,,Drug,Text
+,,,Ceftriaxone,,Drug,Text
+,,,Pancuronium Bromide,,Drug,Text
+,,,Extraneal Ingredients,LCODEXTRIN 75G/L + SODIUM CHLORIDE- PH.EUR. 5.4G/L + CALCIUM CHLORIDE DIHYDRATE- PH.EUR. 0.257G/L + MAGNESIUM CHLORIDE HEXAHYDRATE- PH.EUR. 0.051 G/L & SODIUM S- LACTATE SOLUTION- PH.EUR. 4.5 G/L,Drug,Text
+,,,Gincosan Ingredients,PANAX GINSENG DRY EXTRACT G115 + GINGKO BILOBA DRY EXTRACT GK501,Drug,Text
+,,,Brimonidine,,Drug,Text
+,,,Mepolizumab,,Drug,Text
+,,,Ciclesonide,,Drug,Text
+,,,Songha Night Ingredients,DRY EXTRACT OF VALERIAN ROOTS + DRY EXTRACT OF MELISSA LEAVES,Drug,Text
+,,,Lornoxicam,,Drug,Text
+,,,Tofacitinib,,Drug,Text
+,,,Teicoplanin,,Drug,Text
+,,,Incresync Ingredients,ALOGLIPTIN BENZOATE + PIOGLITAZONE HCL,Drug,Text
+,,,Irbegen Plus Ingredients,IRBESARTAN + HYDROCHLOROTHIAZIDE ,Drug,Text
+,,,Advil Night Ingredients,IBUPROFEN + DIPHENHYDRAMINE CITRATE,Drug,Text
+,,,Sevelamer Carbonate,,Drug,Text
+,,,Sildenafil,,Drug,Text
+,,,Vipdomet Ingredients,ALOGLIPTIN BENZOATE + METFORMIN HCL,Drug,Text
+,,,Perampanel,,Drug,Text
+,,,Amrase Ingredients,PANCREATIN + PAPAIN + OX BILE EXTRACT,Drug,Text
+,,,Warfarin Sodium,,Drug,Text
+,,,Esomeprazole Magnesium,,Drug,Text
+,,,Hypromellose,,Drug,Text
+,,,Carbomer,,Drug,Text
