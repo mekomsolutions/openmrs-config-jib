@@ -1,4 +1,4 @@
-Uuid,Void/Retire,Short name:en,Fully specified name:en,Description:en,Data CLass,Data type,_order:900
+Uuid,Void/Retire,Short name:en,Fully specified name:en,Description:en,Data class,Data type,_order:900
 ,,CAPSULE,JIB Capsule,,Misc,Text,
 ,,TABLET,JIB Tablet,,Misc,Text,
 ,,CUTANEOUS SOLUTION,JIB Cutaneous Solution,,Misc,Text,
@@ -624,7 +624,7 @@ Uuid,Void/Retire,Short name:en,Fully specified name:en,Description:en,Data CLass
 ,,,Rocuronium Bromide,ROCURONIUM BROMIDE,Drug,Text,
 ,,,Doxycycline Hyclate,DOXYCYCLINE HYCLATE,Drug,Text,
 ,,,Follitropin Alfa,FOLLITROPIN ALFA,Drug,Text,
-,,,Botulinum Toxin Type A (From CLostridium Botulinum),BOTULINUM TOXIN TYPE A (FROM CLOSTRIDIUM BOTULINUM),Drug,Text,
+,,,Botulinum Toxin Type A (From Clostridium Botulinum),BOTULINUM TOXIN TYPE A (FROM CLOSTRIDIUM BOTULINUM),Drug,Text,
 ,,,Orlistat,ORLISTAT,Drug,Text,
 ,,,Cosopt Ingredients,DORZOLAMIDE HCL + TIMOLOL MALEATE,Drug,Text,
 ,,,Salmon Calcitonin Synthetic,SALMON CALCITONIN SYNTHETIC,Drug,Text,
@@ -1142,7 +1142,7 @@ HCL + BIOTIN+ CYANOCOBALAMIN
 ,,,Myogesic Ingredients,ORPHENADRINE CITRATE + PARACETAMOL,Drug,Text,
 ,,,Agomelatine,AGOMELATINE,Drug,Text,
 ,,,Omol Cold & Flu Ingredients,PARACETAMOL + PSEUDOEPHEDRINE HCL + CHLORPHENIRAMINE MALEATE,Drug,Text,
-,,,Spores Of Poly-Antibiotic Resistant Bacillus CLausii,SPORES OF POLY-ANTIBIOTIC RESISTANT BACILLUS CLAUSII,Drug,Text,
+,,,Spores Of Poly-Antibiotic Resistant Bacillus Clausii,SPORES OF POLY-ANTIBIOTIC RESISTANT BACILLUS CLAUSII,Drug,Text,
 ,,,Nonoxynol 9,NONOXYNOL 9,Drug,Text,
 ,,,Glibeta Ingredients,GLYBURIDE + METFORMIN HCL,Drug,Text,
 ,,,Canakinumab,CANAKINUMAB,Drug,Text,
