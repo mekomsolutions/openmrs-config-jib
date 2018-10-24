@@ -20,7 +20,4 @@ Uuid,Same as mappings,Void/Retire,Fully specified name:en,Short name:en,Descript
 ,,,JIB_Social History,Social History,,Question,Text,,,,,,,,,,,
 ,,,JIB_List Medications,List Medications,,Question,Text,,,,,,,,,,,
 ,,,JIB_Past Medical History,Past Medical History,,Question,Coded,,JIB_Headache; JIB_Seizure; JIB_Heart Disease; JIB_Hypertension; JIB_COPD; JIB_Asthma; JIB_Diabetes; JIB_UTI; JIB_Kidney Stones; JIB_Ulcer; JIB_GERD; JIB_Depression; JIB_Cancer; JIB_Other Medical History,,,,,,,,,
-,,,JIB_PCV Set,PCV,,ConvSet,N/A,,,JIB_PCV1 Set; JIB_PCV2 Set; JIB_PCV3 Set; ,,,,,,,,
-,,,JIB_DTP-Hep-Hip Set,DTP-Hep-Hip,,ConvSet,N/A,,,JIB_DTP-Hep-Hip1 Set; JIB_DTP-Hep-Hip2 Set; JIB_DTP-Hep-Hip3 Set; ,,,,,,,,
-,,,JIB_Polio Set,Polio,,ConvSet,N/A,,,JIB_Polio1 Set; JIB_Polio2 Set; JIB_Polio3 Set; JIB_IPV Set;,,,,,,,,
 ,,,JIB_History Form,History,,ConvSet,N/A,,,JIB_Past Medical History; JIB_Past Cancer Details; JIB_Past Medical History Details; JIB_Past Surgical History; JIB_Allergies; JIB_List medications; JIB_Social History; JIB_Newborn Immunizations Set; JIB_Child Immunizations Set; JIB_Pregnant Women Immunizations Set;,,,,,,,,
