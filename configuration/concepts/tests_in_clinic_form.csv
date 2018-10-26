@@ -12,6 +12,7 @@ Uuid,Same as mappings,Void/Retire,Fully specified name:en,Short name:en,Descript
 ,,,JIB_ASC,ASC,,Question,Coded,,JIB_Positive; JIB_Negative,,,,,,0,4,,
 ,,,JIB_Urinalysis,Urinalysis,,ConvSet,N/A,,,JIB_LEU; JIB_NIT; JIB_URO; JIB_PRO; JIB_pH; JIB_BLO; JIB_SG; JIB_KET; JIB_BIL; JIB_GLU; JIB_ASC,,,,,,,,
 ,,,JIB_PP Blood Glucose,PP Blood Glucose (mg/dL),,Question,Numeric,,,,,,,,,,,
+,,,JIB_Fasting Blood Glucose,Fasting Blood Glucose (mg/dL),,Question,Numeric,,,,,,,,,,,
 ,,,JIB_Pregnancy Test,Pregnancy Test,,Question,Coded,,JIB_Positive; JIB_Negative,,,,,,,,,
 ,,,JIB_Malaria Rapid Test,Malaria Rapid Test,,Question,Coded,,JIB_Positive; JIB_Negative,,,,,,,,,
 ,,,JIB_Lab Tests Results Notes,Notes,,Question,Text,,,,,,,,,,,
