@@ -94,3 +94,5 @@ Uuid,Void/Retire,Same as mappings,Fully specified name:en,Short name:en,Descript
 ,,,JIB_Newborn Immunizations Set,Newborn Immunizations,,ConvSet,N/A,,,JIB_BCG Set; JIB_HepB at birth Set; JIB_Polio Set; JIB_DTP-Hep-Hip Set; JIB_PCV Set; JIB_MR1 Set; JIB_JE Set; ,,,,,,,,
 ,,,JIB_Pregnant Women Immunizations Set OLD,Pregnant Women Immunizations,,ConvSet,N/A,,,"JIB_Tetanus1; JIB_Tetanus1, Date Given;JIB_Tetanus2; JIB_Tetanus2, Date Given;JIB_Tetanus3; JIB_Tetanus3, Date Given;JIB_Tetanus4; JIB_Tetanus4, Date Given;JIB_Tetanus5; JIB_Tetanus5, Date Given",,,,,,,,
 ,,,JIB_Pregnant Women Immunizations Set,Pregnant Women Immunizations,,ConvSet,N/A,,,JIB_Tetanus1 Set; JIB_Tetanus2 Set; JIB_Tetanus3 Set; JIB_Tetanus4 Set; JIB_Tetanus5 Set; ,,,,,,,,
+,,,JIB_Positive,Positive (+),,Misc,N/A,,,,,,,,,,,
+,,,JIB_Negative,Negative (-),,Misc,N/A,,,,,,,,,,,
