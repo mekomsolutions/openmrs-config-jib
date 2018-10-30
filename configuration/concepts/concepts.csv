@@ -1,4 +1,6 @@
 Uuid,Void/Retire,Same as mappings,Fully specified name:en,Short name:en,Description:en,Data class,Data type,Complex data handler,Answers,Members,Allow decimals,Units,Normal low,Normal high,Absolute low,Absolute high,_version:1,_order:1100
+e74aebd1-51b5-424f-b9f0-339fd8cd3588,,,Female,Female,,Misc,N/A,,,,,,,,,,,
+544634f2-4c08-48b0-9b2b-35251189a59b,,,Male,Male,,Misc,N/A,,,,,,,,,,,
 ,,,JIB_Pulse,Pulse,,Question,Numeric,,,,,,60,90,10,500,,
 ,,,JIB_Pulse Abnormal,Abnormal Pulse,,Abnormal,Boolean,,,,,,,,,,,
 ,,,JIB_Pulse Data,Pulse,,Concept Details,N/A,,,JIB_Pulse;JIB_Pulse Abnormal;,,,,,,,,
@@ -96,3 +98,7 @@ Uuid,Void/Retire,Same as mappings,Fully specified name:en,Short name:en,Descript
 ,,,JIB_Pregnant Women Immunizations Set,Pregnant Women Immunizations,,ConvSet,N/A,,,JIB_Tetanus1 Set; JIB_Tetanus2 Set; JIB_Tetanus3 Set; JIB_Tetanus4 Set; JIB_Tetanus5 Set; ,,,,,,,,
 ,,,JIB_Positive,Positive (+),,Misc,N/A,,,,,,,,,,,
 ,,,JIB_Negative,Negative (-),,Misc,N/A,,,,,,,,,,,
+,,,JIB_Referred To,Referred to,,Question,Text,,,,,,,,,,,
+,,,JIB_Fetal Pulse,Fetal Pulse,,Question,Numeric,,,,,,90,150,0,500,,
+,,,JIB_Fetal Pulse Abnormal,Abnormal Fetal Pulse,,Abnormal,Boolean,,,,,,,,,,,
+,,,JIB_Fetal Pulse Data,Fetal Pulse,,Concept Details,N/A,,,JIB_Fetal Pulse; JIB_Fetal Pulse Abnormal,,,,,,,,
