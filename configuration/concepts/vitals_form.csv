@@ -21,4 +21,4 @@ Uuid,Same as mappings,Void/Retire,Fully specified name:en,Short name:en,Descript
 ,,,WEIGHT,Weight,,Misc,Numeric,,,,TRUE,kg,,,0,700,,
 ,,,HEIGHT,Height,,Misc,Numeric,,,,TRUE,cm,,,0,,,
 84f626d0-3f10-11e4-adec-0800271c1b75,,,Nutritional Values,Nutritional Values,,ConvSet,N/A,,,HEIGHT; WEIGHT,,,,,,,,
-,,,JIB_Vital Signs Set,Vital Signs,,ConvSet,N/A,,,JIB_Pulse Data; JIB_Blood Pressure Set; JIB_Temperature Data; JIB_Respiratory Rate Data; JIB_Oxygen Saturation Data; Nutritional Values,,,,,,,,
+,,,JIB_Vital Signs Set,Vital Signs,,ConvSet,N/A,,,JIB_Pulse Data; JIB_Temperature Data; JIB_Respiratory Rate Data; JIB_Oxygen Saturation Data; JIB_Blood Pressure Set; Nutritional Values,,,,,,,,
