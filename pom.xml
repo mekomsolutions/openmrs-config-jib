@@ -4,7 +4,7 @@
   <artifactId>openmrs-config-jib</artifactId>
   <name>JIB OpenMRS config</name>
   <description>OpenMRS configuration for the JIB distribution</description>
-  <version>1.0.0-SNAPSHOT</version>
+  <version>1.0.0</version>
   <packaging>pom</packaging>
 
   <developers>
